@@ -1,0 +1,658 @@
+links,names,ratings,cuisine,price_for_one
+https://www.zomato.com/hyderabad/sahara-bakers-rtc-x-roads/order,Sahara Bakers,3.7,"Chinese, Bakery, Sichuan, Pizza, Burger",100
+https://www.zomato.com/hyderabad/kfc-abids/order,KFC,3.9,"Burger, Fast Food, Biryani, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/subbaiah-gari-hotel-malakpet/order,Subbaiah Gari Hotel,4.1,"South Indian, Andhra, Mithai",100
+https://www.zomato.com/hyderabad/paradise-biryani-1-charminar/order,Paradise Biryani,3.9,"Biryani, Kebab, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/pista-house-bakery-ghansi-bazaar/order,Pista House Bakery,4.3,"Fast Food, Sandwich, Pizza, Burger, Wraps, Rolls, Salad, Desserts",100
+https://www.zomato.com/hyderabad/shah-ghouse-hotel-restaurant-tolichowki/order,Shah Ghouse Hotel & Restaurant,4,"North Indian, Chinese, Mughlai, Mandi, Sichuan, Shawarma, Seafood, Beverages",100
+https://www.zomato.com/hyderabad/swagath-hotel-3-charminar/order,Swagath Hotel,4.2,"South Indian, Chinese, North Indian",100
+https://www.zomato.com/hyderabad/just-parantha-banjara-hills/order,Just Parantha,4.2,North Indian,100
+https://www.zomato.com/hyderabad/mehfil-narayanguda/order,Mehfil,4.1,"North Indian, Biryani, Mughlai",100
+https://www.zomato.com/hyderabad/cream-stone-begum-bazaar/order,Cream Stone,4.3,"Ice Cream, Desserts",150
+https://www.zomato.com/hyderabad/ms-bakery-sweets-falaknuma/order,MS Bakery & Sweets,4.3,"Bakery, Desserts, Fast Food, Pizza",150
+https://www.zomato.com/hyderabad/iqbal-cafe-1-charminar/order,Iqbal Cafe,4.4,"Hyderabadi, Biryani",150
+https://www.zomato.com/hyderabad/mahalaxmi-tiffin-centre-ghansi-bazaar/order,Mahalaxmi Tiffin Centre,4.1,South Indian,150
+https://www.zomato.com/hyderabad/al-naseer-tahari-centre-charminar/order,Al- Naseer Tahari Centre,4.3,Biryani,150
+https://www.zomato.com/hyderabad/pizza-hut-kacheguda/order,Pizza Hut,3.7,"Pizza, Fast Food, Desserts, Beverages",150
+https://www.zomato.com/hyderabad/andhra-gunpowder-mehdipatnam/order,Andhra Gunpowder,4.3,"Andhra, Biryani, South Indian, Desserts, Beverages, Hyderabadi",150
+https://www.zomato.com/hyderabad/burger-king-malakpet/order,Burger King,4.2,"Burger, Fast Food",150
+https://www.zomato.com/hyderabad/kinara-grand-meerpet/order,Kinara Grand,4,"North Indian, Chinese, Andhra, Seafood",150
+https://www.zomato.com/hyderabad/meridian-restaurant-2-panjagutta/order,Meridian Restaurant,4.1,"Biryani, North Indian, Seafood, Chinese, Kebab",150
+https://www.zomato.com/hyderabad/ks-bakers-attapur/order,KS Bakers,4.1,"Bakery, Fast Food, Pizza, Burger",150
+https://www.zomato.com/hyderabad/biryani-trip-mehdipatnam/order,Biryani Trip,4.3,"Biryani, South Indian, Mughlai, Andhra, Desserts, Hyderabadi",150
+https://www.zomato.com/hyderabad/la-pinoz-pizza-dilsukhnagar/order,La Pino'z Pizza,3.9,"Pizza, Pasta, Fast Food",150
+https://www.zomato.com/hyderabad/nic-natural-ice-creams-kothapet/order,NIC - Natural Ice Creams,4.5,"Ice Cream, Desserts",150
+https://www.zomato.com/hyderabad/tipsy-topsy-bakery-saroor-nagar/order,Tipsy Topsy Bakery,4,"Bakery, Fast Food, Rolls, Chinese, Pizza, Burger",150
+https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-musheerabad/order,Kwality Wall’s Frozen Dessert and Ice Cream Shop,4.4,Ice Cream,150
+https://www.zomato.com/hyderabad/karachi-bakery-2-saroor-nagar/order,Karachi Bakery,4.3,"Bakery, Chinese, Pizza, Fast Food",150
+https://www.zomato.com/hyderabad/subway-malakpet/order,Subway,3.9,"Healthy Food, Fast Food, Sandwich, Salad, Wraps, Beverages",150
+https://www.zomato.com/hyderabad/scoops-charminar/order,Scoops,4.2,"Ice Cream, Desserts, Pizza",150
+https://www.zomato.com/hyderabad/airport-bawarchi-restaurant-chandrayanagutta/order,Airport Bawarchi Restaurant,4.2,"North Indian, Chinese",150
+https://www.zomato.com/hyderabad/the-thickshake-factory-1-basheer-bagh/order,The Thickshake Factory,4.2,"Shake, Ice Cream",150
+https://www.zomato.com/hyderabad/sri-kanya-comfort-somajiguda/order,Sri Kanya Comfort,4,"Andhra, North Indian, Chinese, Seafood, Beverages, Desserts",150
+https://www.zomato.com/hyderabad/natural-ice-cream-abids/order,Natural Ice Cream,4.2,"Ice Cream, Desserts",150
+https://www.zomato.com/hyderabad/g-pulla-reddy-sweets-mehdipatnam/order,G. Pulla Reddy Sweets,4.4,Mithai,150
+https://www.zomato.com/hyderabad/cakezone-himayath-nagar/order,CakeZone,4.1,"Bakery, Desserts, Ice Cream, Pancake",400
+https://www.zomato.com/hyderabad/lassi-shop-1-himayath-nagar/order,Lassi Shop,4.2,"Beverages, Ice Cream, Desserts, Shake",400
+https://www.zomato.com/hyderabad/rice-bowl-dilsukhnagar/order,Rice Bowl,3.7,North Indian,400
+https://www.zomato.com/hyderabad/kings-palace-amberpet/order,King's Palace,3.8,"Chinese, North Indian",400
+https://www.zomato.com/hyderabad/behrouz-biryani-abids/order,Behrouz Biryani,3.9,"Biryani, Mughlai, Kebab, Desserts",400
+https://www.zomato.com/hyderabad/andhra-meals-and-tiffins-mehdipatnam/order,Andhra Meals And Tiffins,4.1,Andhra,400
+https://www.zomato.com/hyderabad/kritunga-the-palegars-cuisine-lakdikapul/order,Kritunga - The Palegar's Cuisine,3.7,"Andhra, South Indian, Biryani, North Indian, Desserts",400
+https://www.zomato.com/hyderabad/lunchbox-meals-and-thalis-abids/order,LunchBox - Meals and Thalis,3.9,"North Indian, Biryani, Chinese, Healthy Food, Desserts, Beverages",400
+https://www.zomato.com/hyderabad/haldirams-abids/order,Haldiram's,4.2,"North Indian, South Indian, Street Food, Fast Food, Desserts, Beverages, Tea",400
+https://www.zomato.com/hyderabad/makers-of-milkshakes-abids/order,Makers Of Milkshakes,4.3,"Shake, Ice Cream, Desserts",400
+https://www.zomato.com/hyderabad/capital-multi-cuisine-restaurant-malakpet/order,Capital Multi Cuisine Restaurant,3.9,"North Indian, Chinese, Biryani, Seafood, Kebab, Mandi, Desserts, Beverages",400
+https://www.zomato.com/hyderabad/chutneys-l-b-nagar/order,Chutneys,4,"South Indian, North Indian, Chinese",400
+https://www.zomato.com/hyderabad/arun-ice-creams-attapur/order,Arun Ice Creams,4.5,"Ice Cream, Desserts",50
+https://www.zomato.com/hyderabad/swiss-castle-abids/order,Swiss Castle,4.3,"Bakery, Fast Food",50
+https://www.zomato.com/hyderabad/crystal-restaurant-bar-nallakunta/order,Crystal Restaurant & Bar,3.9,"North Indian, Chinese, Mughlai",50
+https://www.zomato.com/hyderabad/kamat-hotel-nampally/order,Kamat Hotel,4.2,"North Indian, South Indian, Chinese",50
+https://www.zomato.com/hyderabad/riyan-hotel-nampally/order,Riyan Hotel,3.7,"Mughlai, Biryani",50
+https://www.zomato.com/hyderabad/1989-pizza-thick-shakes-dilsukhnagar/order,1989 Pizza & Thick Shake's,4.1,"Fast Food, Pizza, Pasta, Desserts, Beverages, Shake, Coffee",50
+https://www.zomato.com/hyderabad/tibbs-frankie-1-himayath-nagar/order,Tibb's Frankie,3.9,Rolls,50
+https://www.zomato.com/hyderabad/zomoz-the-momo-company-banjara-hills/order,Zomoz - The Momo Company,4,"Momos, Fast Food",50
+https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-3-malakpet/order,Kwality Wall’s Frozen Dessert and Ice Cream Shop,4.5,Ice Cream,50
+https://www.zomato.com/hyderabad/faasos-wraps-rolls-abids/order,Faasos - Wraps & Rolls,4,"Fast Food, Wraps, North Indian, Desserts, Beverages",50
+https://www.zomato.com/hyderabad/sri-sai-raghavendra-udipi-veg-kothapet/order,Sri Sai Raghavendra Udipi Veg,3.9,"South Indian, North Indian",50
+https://www.zomato.com/hyderabad/indian-bakery-rajendra-nagar/order,Indian Bakery,4.4,"Bakery, Desserts, Mithai, Fast Food, Pizza, Burger",50
+https://www.zomato.com/hyderabad/mohammedia-shawarma-2-mehdipatnam/order,Mohammedia Shawarma,3.7,"Kebab, Street Food, Wraps, Momos, Biryani, Shawarma",150
+https://www.zomato.com/hyderabad/wow-momo-himayath-nagar/order,WOW! Momo,4,"Momos, Fast Food, Beverages",150
+https://www.zomato.com/hyderabad/yours-universe-bakes-cakes-adikmet/order,Yours Universe - Bakes & Cakes,4.1,"Bakery, Fast Food",150
+https://www.zomato.com/hyderabad/eagles-pizza-saroor-nagar/order,Eagles Pizza,4,"Pizza, Fast Food",150
+https://www.zomato.com/hyderabad/millet-express-dilsukhnagar/order,Millet Express,4,"Healthy Food, South Indian, North Indian, Biryani, Beverages",150
+https://www.zomato.com/hyderabad/thali-central-masab-tank/order,Thali Central,3.7,"Fast Food, North Indian, Healthy Food, Biryani, Desserts, Beverages",150
+https://www.zomato.com/hyderabad/ram-ki-bandi-nampally/order,Ram Ki Bandi,4.2,South Indian,150
+https://www.zomato.com/hyderabad/bhattad-ki-idli-rambharose-bhandar-kacheguda/order,Bhattad Ki Idli - Rambharose Bhandar,4,South Indian,150
+https://www.zomato.com/hyderabad/cafe-niloufer-himayath-nagar/order,Cafe Niloufer,4.4,"Cafe, Beverages, Fast Food, Tea",150
+https://www.zomato.com/hyderabad/the-belgian-waffle-co-himayath-nagar/order,The Belgian Waffle Co.,4.4,"Waffle, Desserts, Pancake",150
+https://www.zomato.com/hyderabad/hotel-swagath-1-saroor-nagar/order,Hotel Swagath,4.3,"South Indian, Beverages",150
+https://www.zomato.com/hyderabad/dadus-himayath-nagar/order,Dadu's,4.4,"Mithai, Desserts, Street Food, Bakery",150
+https://www.zomato.com/hyderabad/starbucks-coffee-banjara-hills/order,Starbucks Coffee,4.2,"Cafe, Beverages, Fast Food, Desserts, Tea",350
+https://www.zomato.com/hyderabad/fancy-ice-cream-1-charminar/order,Fancy Ice Cream,4.2,"Desserts, Ice Cream",350
+https://www.zomato.com/hyderabad/temptations-begum-bazaar/order,Temptations,4.3,"Ice Cream, Desserts, Fast Food, Pizza",350
+https://www.zomato.com/hyderabad/almond-house-himayath-nagar/order,Almond House,4.6,"Mithai, Street Food",350
+https://www.zomato.com/hyderabad/papaji-da-dhaba-1-amberpet/order,Papaji-Da-Dhaba,4,"North Indian, Mughlai, Chinese, Biryani",350
+https://www.zomato.com/hyderabad/taco-bell-malakpet/order,Taco Bell,3.7,"Mexican, Fast Food, Wraps",350
+https://www.zomato.com/hyderabad/star-hotel-musheerabad/order,Star Hotel,3.6,"Chinese, Biryani",350
+https://www.zomato.com/hyderabad/the-biryani-life-abids/order,The Biryani Life,3.6,"Biryani, North Indian, Fast Food, Beverages, Desserts",350
+https://www.zomato.com/hyderabad/ambika-tiffin-center-attapur/order,Ambika Tiffin Center,4.3,South Indian,350
+https://www.zomato.com/hyderabad/baskin-robbins-falaknuma/order,Baskin Robbins,4.1,"Ice Cream, Desserts, Waffle",350
+https://www.zomato.com/hyderabad/pathemari-kerala-restaurant-nampally/order,Pathemari Kerala Restaurant,4.1,"Kerala, Biryani, South Indian",350
+https://www.zomato.com/hyderabad/wow-china-1-banjara-hills/order,WOW! China,4.1,"Chinese, Asian, Sichuan",350
+https://www.zomato.com/hyderabad/brownbear-himayath-nagar/order,BrownBear,3.8,"Bakery, Fast Food, Pancake",100
+https://www.zomato.com/hyderabad/bikanervala-basheer-bagh/order,Bikanervala,4.3,"Mithai, Street Food, North Indian, South Indian, Fast Food, Beverages, Desserts, Pizza",100
+https://www.zomato.com/hyderabad/sri-mahalaxmi-reddy-brothers-tiffins-fast-food-mehdipatnam/order,Sri Mahalaxmi Reddy Brother's Tiffins & Fast Food,4.3,"Chinese, South Indian, Sichuan",100
+https://www.zomato.com/hyderabad/minerva-coffee-shop-himayath-nagar/order,Minerva Coffee Shop,4.2,"South Indian, North Indian, Chinese, Ice Cream, Beverages, Desserts",100
+https://www.zomato.com/hyderabad/vellanki-foods-ameerpet/order,Vellanki Foods,4.4,Mithai,100
+https://www.zomato.com/hyderabad/shree-golden-palace-mehdipatnam/order,Shree Golden Palace,3.9,"North Indian, Biryani, Chinese, South Indian",100
+https://www.zomato.com/hyderabad/farmbowl-by-urbankisaan-himayath-nagar/order,FarmBowl By Urbankisaan,3.9,"Healthy Food, Salad",100
+https://www.zomato.com/hyderabad/lassi-shop-meerpet/order,Lassi Shop,4,"Fast Food, Burger, Beverages, Shake, Juices, Ice Cream",100
+https://www.zomato.com/hyderabad/suprabhat-tiffins-malakpet/order,Suprabhat Tiffins,3.9,South Indian,100
+https://www.zomato.com/hyderabad/hotel-sandarshini-1-masab-tank/order,Hotel Sandarshini,4.2,"South Indian, North Indian, Chinese",100
+https://www.zomato.com/hyderabad/cake-lamore-himayath-nagar/order,Cake L'amore,3.8,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/balaji-family-dhaba-nallakunta/order,Balaji Family Dhaba,4,"North Indian, Chinese, Biryani, Sichuan",100
+https://www.zomato.com/hyderabad/balaji-santhosh-dhaba-kacheguda/order,Balaji Santhosh Dhaba,4,"North Indian, Chinese",300
+https://www.zomato.com/hyderabad/theobroma-himayath-nagar/order,Theobroma,New,"Bakery, Desserts, Coffee",300
+https://www.zomato.com/hyderabad/new-grand-restaurant-bakery-begum-bazaar/order,New Grand Restaurant & Bakery,4,"Chinese, Bakery",300
+https://www.zomato.com/hyderabad/blue-fox-ameerpet/order,Blue Fox,4,"Chinese, Continental, North Indian",300
+https://www.zomato.com/hyderabad/balapur-bawarchi-restaurant-meerpet/order,Balapur Bawarchi Restaurant,3.8,"North Indian, Chinese",300
+https://www.zomato.com/hyderabad/oven-secretz-attapur/order,Oven Secretz,4.3,"Bakery, Pizza, Fast Food, Burger",300
+https://www.zomato.com/hyderabad/california-burrito-boiguda-secunderabad/order,California Burrito,4.3,"Mexican, Healthy Food, American, Salad, Continental, Beverages",300
+https://www.zomato.com/hyderabad/the-good-bowl-abids/order,The Good Bowl,3.8,"Asian, North Indian, Pasta, Biryani",300
+https://www.zomato.com/hyderabad/minerva-coffee-shop-kothapet/order,Minerva Coffee Shop,4.1,"South Indian, Tea",300
+https://www.zomato.com/hyderabad/ms-bakery-attapur/order,MS Bakery,4.3,"Pizza, Rolls, Fast Food, Desserts, Bakery",300
+https://www.zomato.com/hyderabad/milan-juice-centre-nampally/order,Milan Juice Centre,4.2,"Beverages, Desserts, Lebanese, Shake, Shawarma",300
+https://www.zomato.com/hyderabad/new-balaji-santosh-dhaba-saroor-nagar/order,New Balaji Santosh Dhaba,4.1,"North Indian, Chinese",300
+https://www.zomato.com/hyderabad/nausheen-fruit-juice-centre-chandrayanagutta/order,Nausheen Fruit Juice Centre,4.4,"Juices, Beverages",100
+https://www.zomato.com/hyderabad/amantran-rtc-x-roads/order,Amantran,3.9,"Bengali, Chinese",100
+https://www.zomato.com/hyderabad/hotel-niagara-1-malakpet/order,Hotel Niagara,3.9,"North Indian, Biryani, Arabian, Beverages, Mandi",100
+https://www.zomato.com/hyderabad/kings-restaurant-mehdipatnam/order,King's Restaurant,4,"Arabian, North Indian, Chinese, Mandi, Beverages, Desserts, Sichuan, Shawarma",100
+https://www.zomato.com/hyderabad/minerva-sweets-masab-tank/order,Minerva Sweets,4.4,"Mithai, Desserts, Juices, Fast Food",100
+https://www.zomato.com/hyderabad/hotel-parwaz-2-rajendra-nagar/order,Hotel Parwaz,4,"Chinese, North Indian, Kebab, Biryani, Seafood, Beverages, Mughlai, Sichuan",100
+https://www.zomato.com/hyderabad/nrs-nandini-sudha-rtc-x-roads/order,NR's Nandini Sudha,3.9,"North Indian, Chinese, South Indian, Mughlai, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/fishland-ameerpet/order,Fishland,4,"North Indian, Chinese, Andhra",100
+https://www.zomato.com/hyderabad/anu-tiffins-centre-charminar/order,Anu Tiffins Centre,4.2,"South Indian, Street Food",100
+https://www.zomato.com/hyderabad/bakingo-sp-road-secunderabad/order,Bakingo,4.4,"Bakery, Desserts, Coffee",100
+https://www.zomato.com/hyderabad/abs-absolute-barbecues-banjara-hills/order,AB's - Absolute Barbecues,3.8,"North Indian, Street Food, Fast Food, BBQ, Desserts",100
+https://www.zomato.com/hyderabad/dwaraka-veg-restaurant-lakdikapul/order,Dwaraka Veg Restaurant,4.1,"South Indian, North Indian, Chinese, Biryani, Beverages, Desserts",100
+https://www.zomato.com/hyderabad/dunkin-donuts-banjara-hills/order,DUNKIN' DONUTS,4.3,"Burger, Desserts, Tea, Coffee",150
+https://www.zomato.com/hyderabad/hotel-sohail-malakpet/order,Hotel Sohail,4.2,"North Indian, Mughlai, Kebab, Chinese, Beverages, Desserts",150
+https://www.zomato.com/hyderabad/sri-durga-udupi-tiffins-meals-mehdipatnam/order,Sri Durga Udupi Tiffins & Meals,3.9,South Indian,150
+https://www.zomato.com/hyderabad/momo-monk-mehdipatnam/order,Momo Monk,4.3,Momos,150
+https://www.zomato.com/hyderabad/babai-grand-hotel-attapur/order,Babai Grand Hotel,3.6,"South Indian, Chinese, North Indian, Biryani",150
+https://www.zomato.com/hyderabad/redaan-restaurant-saroor-nagar/order,Redaan Restaurant,4.1,"Biryani, Mughlai, Chinese, Kebab, Sichuan",150
+https://www.zomato.com/hyderabad/nandu-fresh-fruit-juice-centre-himayath-nagar/order,Nandu Fresh Fruit Juice Centre,3.7,"Beverages, Juices, Shake, Healthy Food",150
+https://www.zomato.com/hyderabad/royal-juice-cente-rajendra-nagar/order,Royal Juice Cente,4,"Juices, Beverages, Fast Food, Shake",150
+https://www.zomato.com/hyderabad/krispy-kreme-banjara-hills/order,Krispy Kreme,4.3,"Desserts, Beverages",150
+https://www.zomato.com/hyderabad/ohris-cake-nation-basheer-bagh/order,Ohri's Cake Nation,4.1,"Bakery, Desserts, Ice Cream",150
+https://www.zomato.com/hyderabad/hotel-sweekar-saroor-nagar/order,Hotel Sweekar,4,"South Indian, Beverages",150
+https://www.zomato.com/hyderabad/taj-mahal-taj-mahal-hotel-abids/order,Taj Mahal - Taj Mahal Hotel,4.2,"North Indian, South Indian, Chinese, Street Food, Fast Food, Beverages",150
+https://www.zomato.com/hyderabad/masqati-ice-cream-saroor-nagar/order,Masqati Ice Cream,4.3,"Ice Cream, Desserts, Pizza, Fast Food, Street Food, Beverages",100
+https://www.zomato.com/hyderabad/hotel-sri-raghavendra-udupi-veg-1-saroor-nagar/order,Hotel Sri Raghavendra Udupi Veg,4.1,"South Indian, Chinese, North Indian, Juices, Beverages, Desserts, Sichuan",100
+https://www.zomato.com/hyderabad/sindhura-eastcourt-tiffins-meals-saroor-nagar/order,Sindhura Eastcourt Tiffins & Meals,3.9,"South Indian, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/bhattad-ki-idli-rambharose-bhandar-attapur/order,Bhattad Ki Idli - Rambharose Bhandar,4,South Indian,100
+https://www.zomato.com/hyderabad/hotel-ashoka-grand-udupi-veg-rajendra-nagar/order,Hotel Ashoka Grand Udupi Veg,3.7,"South Indian, Chinese",100
+https://www.zomato.com/hyderabad/sri-gayatri-bhavan-dilsukhnagar/order,Sri Gayatri Bhavan,4.3,South Indian,100
+https://www.zomato.com/hyderabad/haldirams-sweets-and-namkeens-abids/order,Haldirams Sweets And Namkeens,4.3,"Mithai, North Indian, Street Food, South Indian, Beverages",100
+https://www.zomato.com/hyderabad/frozen-bottle-milkshakes-desserts-and-ice-cream-himayath-nagar/order,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",4.2,"Beverages, Desserts, Ice Cream, Waffle",100
+https://www.zomato.com/hyderabad/fruitfull-himayath-nagar/order,Fruitfull,4.2,"Healthy Food, Desserts",100
+https://www.zomato.com/hyderabad/sandwich-eatery-langer-houz/order,Sandwich Eatery,4,"Fast Food, Sandwich, Shake, Beverages, Burger, Coffee",100
+https://www.zomato.com/hyderabad/hotel-anand-bhavan-attapur/order,Hotel Anand Bhavan,3.4,"South Indian, Beverages",100
+https://www.zomato.com/hyderabad/snack-house-mehdipatnam/order,Snack House,4.1,"Fast Food, Momos",100
+https://www.zomato.com/hyderabad/4m-biryani-house-musheerabad/order,4M Biryani House,4.2,"North Indian, Chinese",150
+https://www.zomato.com/hyderabad/vasireddy-swagruha-foods-1-kothapet/order,Vasireddy Swagruha Foods,4.2,"Mithai, Street Food",150
+https://www.zomato.com/hyderabad/ikraam-restaurant-charminar/order,Ikraam Restaurant,4,"North Indian, Chinese, Mughlai, Asian, Mandi, Desserts, Biryani, BBQ",150
+https://www.zomato.com/hyderabad/krishna-food-court-1-ramanthapur/order,Krishna Food Court,3.8,"Chinese, Biryani, North Indian",150
+https://www.zomato.com/hyderabad/royal-tiffin-center-abids/order,Royal Tiffin Center,3.7,"South Indian, Street Food, Beverages",150
+https://www.zomato.com/hyderabad/just-bake-1-srinagar-colony/order,Just Bake,4.2,"Bakery, Desserts, Fast Food, Street Food, Pizza, Burger",150
+https://www.zomato.com/hyderabad/ibaco-kacheguda/order,ibaco,4.1,"Desserts, Ice Cream",150
+https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-saroor-nagar/order,Kwality Wall’s Frozen Dessert and Ice Cream Shop,3.9,"Ice Cream, Desserts",150
+https://www.zomato.com/hyderabad/suprabath-tiffins-panjagutta/order,Suprabath Tiffins,4,"South Indian, Juices",150
+https://www.zomato.com/hyderabad/abhiruchi-swaghruha-foods-s-r-nagar/order,Abhiruchi Swaghruha Foods,4.5,Mithai,150
+https://www.zomato.com/hyderabad/indira-darshini-khairatabad/order,Indira Darshini,3.9,"Chinese, Biryani, North Indian",150
+https://www.zomato.com/hyderabad/krupa-mess-tiffins-abids/order,Krupa Mess & Tiffins,3.6,"South Indian, Chinese, North Indian, Sichuan, Pizza",150
+https://www.zomato.com/hyderabad/baker-street-mehdipatnam/order,Baker Street,4.3,"Bakery, Chinese, Sandwich, Burger, Pizza, Fast Food",100
+https://www.zomato.com/hyderabad/alhamdulilah-juice-centre-charminar/order,Alhamdulilah Juice Centre,3.7,"Juices, Beverages, Ice Cream, Shake",100
+https://www.zomato.com/hyderabad/taj-mahal-hotel-himayath-nagar/order,Taj Mahal Hotel,4,"South Indian, Chinese, North Indian, Beverages, Desserts, Sandwich",100
+https://www.zomato.com/hyderabad/sweet-truth-cake-and-desserts-abids/order,Sweet Truth - Cake and Desserts,4.3,"Desserts, Bakery",100
+https://www.zomato.com/hyderabad/sri-raghavendra-udupi-ramanthapur/order,Sri Raghavendra Udupi,3.9,"South Indian, Chinese",100
+https://www.zomato.com/hyderabad/onesta-banjara-hills/order,Onesta,3.5,"Pizza, Pasta, Fast Food, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/chung-hua-restaurant-pg-road-secunderabad/order,Chung Hua Restaurant,4.2,"Chinese, Singaporean, Thai, Seafood, Ice Cream, Beverages, North Indian, Sichuan",100
+https://www.zomato.com/hyderabad/the-nosh-bistro-himayath-nagar/order,The Nosh Bistro,3.8,"Fast Food, Sandwich, Burger, Pizza, Mexican, Beverages",100
+https://www.zomato.com/hyderabad/telangana-inti-ruchulu-dilsukhnagar/order,Telangana Inti Ruchulu,4.1,"Biryani, South Indian, Beverages",100
+https://www.zomato.com/hyderabad/masqati-ice-cream-charminar/order,Masqati Ice Cream,4.4,"Desserts, Fast Food, Street Food, Pizza, Ice Cream, Beverages",100
+https://www.zomato.com/hyderabad/cafe-coffee-day-2-kacheguda/order,Cafe Coffee Day,3.6,"Cafe, Fast Food, Coffee, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/sri-raghavendra-tiffins-and-meals-dilsukhnagar/order,Sri Raghavendra Tiffins and Meals,4,"South Indian, Street Food",100
+https://www.zomato.com/hyderabad/shree-ganesh-darshini-kacheguda/order,Shree Ganesh Darshini,3.8,"South Indian, Beverages",50
+https://www.zomato.com/hyderabad/slay-coffee-abids/order,SLAY Coffee,4.2,"Beverages, Coffee",50
+https://www.zomato.com/hyderabad/the-dessert-bakers-himayath-nagar/order,The Dessert Bakers,3.4,"Waffle, Desserts",50
+https://www.zomato.com/hyderabad/pure-veg-meals-by-lunchbox-malakpet/order,Pure Veg Meals by LunchBox,4,"North Indian, Street Food",50
+https://www.zomato.com/hyderabad/green-treat-vegetarian-food-court-1-kothapet/order,Green Treat Vegetarian Food Court,4.1,"South Indian, Chinese, Fast Food, North Indian, Street Food, Biryani, Sandwich, Beverages",50
+https://www.zomato.com/hyderabad/juice-world-saroor-nagar/order,Juice World,4,"Beverages, Juices, Salad, Shake, Desserts",50
+https://www.zomato.com/hyderabad/cakes11-begumpet/order,CAKES11,3.6,"Bakery, Desserts",50
+https://www.zomato.com/hyderabad/amay-tiffin-corner-abids/order,Amay Tiffin Corner,3.9,"South Indian, Street Food, Juices, Beverages",50
+https://www.zomato.com/hyderabad/emerald-mithai-shop-necklace-road/order,Emerald Mithai Shop,4.5,Mithai,50
+https://www.zomato.com/hyderabad/al-kareem-hotel-1-mehdipatnam/order,Al Kareem Hotel,4.1,Hyderabadi,50
+https://www.zomato.com/hyderabad/the-brooklyn-creamery-healthy-ice-cream-abids/order,The Brooklyn Creamery - Healthy Ice Cream,3.8,Ice Cream,50
+https://www.zomato.com/hyderabad/forbes-cafe-restaurant-dilsukhnagar/order,Forbes Cafe & Restaurant,3.7,"Biryani, Cafe, North Indian, Continental, Street Food, Beverages, Desserts, Pizza",50
+https://www.zomato.com/hyderabad/amaravathi-family-restaurant-l-b-nagar/order,Amaravathi Family Restaurant,4.1,"North Indian, Chinese, Andhra",350
+https://www.zomato.com/hyderabad/tewari-brothers-mithaiwala-khairatabad/order,Tewari Brothers Mithaiwala,4.2,"Mithai, Desserts, Street Food",350
+https://www.zomato.com/hyderabad/famous-ice-creams-nampally/order,Famous Ice Creams,4.2,"Desserts, Ice Cream",350
+https://www.zomato.com/hyderabad/shree-balaji-family-dhaba-rajendra-nagar/order,Shree Balaji Family Dhaba,3.7,"North Indian, Fast Food",350
+https://www.zomato.com/hyderabad/monginis-dilsukhnagar/order,Monginis,4,"Bakery, Desserts, Fast Food",350
+https://www.zomato.com/hyderabad/wholesale-cakes-1-l-b-nagar/order,Wholesale Cakes,3.9,Bakery,350
+https://www.zomato.com/hyderabad/sri-sai-veg-point-nallakunta/order,Sri Sai Veg Point,4.1,"Chinese, North Indian, Sichuan",350
+https://www.zomato.com/hyderabad/euphoria-banjara-hills/order,Euphoria,4.6,"Desserts, Bakery",350
+https://www.zomato.com/hyderabad/khichdi-express-musheerabad/order,Khichdi Express,3.5,North Indian,350
+https://www.zomato.com/hyderabad/sri-darshini-pure-veg-kothapet/order,Sri Darshini Pure Veg,3.9,"South Indian, Chinese",350
+https://www.zomato.com/hyderabad/shri-morya-home-foods-marathi-katta-koti/order,Shri Morya Home Foods Marathi Katta,4.1,"Maharashtrian, Fast Food, Street Food, Beverages",350
+https://www.zomato.com/hyderabad/hotel-woodside-kacheguda/order,Hotel Woodside,4.4,South Indian,350
+https://www.zomato.com/hyderabad/roastery-coffee-house-1-banjara-hills/order,Roastery Coffee House,4.3,"Cafe, American, Continental, Italian, Coffee, Beverages, Pizza, Burger",350
+https://www.zomato.com/hyderabad/drunken-monkey-mehdipatnam/order,Drunken Monkey,4.3,"Healthy Food, Juices, Beverages",350
+https://www.zomato.com/hyderabad/sahadeva-reddy-tiffins-dilsukhnagar/order,Sahadeva Reddy Tiffins,4.2,Street Food,350
+https://www.zomato.com/hyderabad/govind-dosa-charminar/order,Govind Dosa,3.5,South Indian,350
+https://www.zomato.com/hyderabad/samosa-singh-malakpet/order,Samosa Singh,3.7,"Street Food, Fast Food, North Indian, Maharashtrian, Tea",350
+https://www.zomato.com/hyderabad/chai-point-banjara-hills/order,Chai Point,4,"Tea, Beverages, Fast Food",350
+https://www.zomato.com/hyderabad/ganesh-mithai-bhandar-saroor-nagar/order,Ganesh Mithai Bhandar,4,"Mithai, Street Food",350
+https://www.zomato.com/hyderabad/om-best-paratha-dilsukhnagar/order,Om  Best Paratha,3.9,"North Indian, Chinese, Fast Food, Beverages, Sichuan, Pizza",350
+https://www.zomato.com/hyderabad/grand-bawarchi-restaurant-falaknuma/order,Grand Bawarchi Restaurant,4.3,"North Indian, Chinese, Biryani",350
+https://www.zomato.com/hyderabad/sri-vasavi-grand-mehdipatnam/order,Sri Vasavi Grand,3.7,"South Indian, Chinese, Sichuan",350
+https://www.zomato.com/hyderabad/huber-holly-himayath-nagar/order,Huber & Holly,4.1,"Pizza, Fast Food, Pasta, Sandwich, Beverages, Shake, Ice Cream",350
+https://www.zomato.com/hyderabad/conçu-banjara-hills/order,Conçu,4.3,"Cafe, Continental, Beverages",350
+https://www.zomato.com/hyderabad/famous-tiffins-1-falaknuma/order,Famous Tiffins,4,South Indian,100
+https://www.zomato.com/hyderabad/sri-amul-tiffin-centre-koti/order,Sri Amul Tiffin Centre,4.1,South Indian,100
+https://www.zomato.com/hyderabad/black-pearl-hotel-central-park-himayath-nagar/order,Black Pearl - Hotel Central Park,3.9,"North Indian, Chinese, Mughlai, Seafood, Kebab, Biryani, Beverages, Sichuan",100
+https://www.zomato.com/hyderabad/parathawala-malakpet/order,Parathawala,3.9,North Indian,100
+https://www.zomato.com/hyderabad/firangi-bake-abids/order,Firangi Bake,4.3,"Mexican, Italian, Desserts, Pizza",100
+https://www.zomato.com/hyderabad/a-balaji-santosh-dhaba-langer-houz/order,A Balaji Santosh Dhaba,4,"North Indian, Biryani, Chinese",100
+https://www.zomato.com/hyderabad/hotel-abinand-grand-kacheguda/order,Hotel Abinand Grand,3.1,"North Indian, Chinese, Mughlai, Seafood, Andhra, Biryani, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/eclair-de-cake-himayath-nagar/order,Eclair De Cake,3.3,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/vnr-fresh-juice-center-himayath-nagar/order,VNR Fresh Juice Center,3.6,"Beverages, Ice Cream, Salad",100
+https://www.zomato.com/hyderabad/cupcake-bliss-cakes-desserts-banjara-hills/order,Cupcake Bliss Cakes & Desserts,4.1,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/express-by-abs-banjara-hills/order,Express By ABs,4,"North Indian, Biryani, Mughlai, BBQ",100
+https://www.zomato.com/hyderabad/coconut-juice-bar-tolichowki/order,Coconut Juice Bar,4,"Beverages, Shake, Ice Cream",100
+https://www.zomato.com/hyderabad/bakers-q-amberpet/order,Bakers 'Q',4.1,"Bakery, Fast Food, Desserts, Sandwich, Burger, Rolls, Pizza",100
+https://www.zomato.com/hyderabad/madhur-sweets-masab-tank/order,Madhur Sweets,4.5,"Mithai, Desserts",100
+https://www.zomato.com/hyderabad/deccan-chef-nampally/order,Deccan Chef,4.1,Biryani,100
+https://www.zomato.com/hyderabad/saudagar-kalyani-biryani-and-tahari-falaknuma/order,Saudagar Kalyani Biryani And Tahari,4.3,Biryani,100
+https://www.zomato.com/hyderabad/cake-dlicious-dilsukhnagar/order,Cake D'licious,3.8,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/rahuls-adda-attapur/order,Rahul's Adda,4,"South Indian, North Indian",100
+https://www.zomato.com/hyderabad/warmoven-cake-desserts-banjara-hills/order,WarmOven Cake & Desserts,3.9,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/balaji-mukesh-mithai-bhandar-saroor-nagar/order,Balaji Mukesh Mithai Bhandar,4.3,Mithai,100
+https://www.zomato.com/hyderabad/salasar-chat-and-tiffins-center-falaknuma/order,Salasar Chat And Tiffins Center,4.2,"Street Food, South Indian",100
+https://www.zomato.com/hyderabad/tea-time-rajendra-nagar/order,Tea Time,4,"Tea, Shake, Beverages, Street Food",100
+https://www.zomato.com/hyderabad/nizams-khana-ghar-falaknuma/order,Nizams Khana Ghar,3.9,"South Indian, Chinese, Street Food",100
+https://www.zomato.com/hyderabad/ghrelin-cafe-patisserie-basheer-bagh/order,Ghrelin Cafe & Patisserie,4.2,"Cafe, Continental, Italian, Fast Food, Pizza, Desserts, Beverages, Burger",100
+https://www.zomato.com/hyderabad/the-exotic-shawarma-attapur/order,The Exotic Shawarma,4.1,"Fast Food, Beverages, Shake, Pizza, Momos, Shawarma",150
+https://www.zomato.com/hyderabad/dessi-cuppa-dilsukhnagar/order,Dessi Cuppa,3.9,"Beverages, Fast Food",150
+https://www.zomato.com/hyderabad/k-c-bakers-confectioners-1-himayath-nagar/order,K&C Bakers & Confectioners,3.8,"Bakery, Fast Food, Beverages, Pizza, Burger",150
+https://www.zomato.com/hyderabad/makhni-brothers-masab-tank/order,Makhni Brothers,3.8,"North Indian, Kebab, Biryani, Awadhi, Hyderabadi, Modern Indian, Desserts, Beverages",150
+https://www.zomato.com/hyderabad/sri-siddartha-pure-veg-nallakunta/order,Sri Siddartha Pure Veg,4.1,"South Indian, Beverages, Tea",150
+https://www.zomato.com/hyderabad/five-star-dilsukhnagar/order,Five Star,3.4,"Fast Food, Roast Chicken",150
+https://www.zomato.com/hyderabad/tawakkal-bakery-sweets-falaknuma/order,Tawakkal Bakery & Sweets,3.8,Mithai,150
+https://www.zomato.com/hyderabad/ravi-tiffins-dilsukhnagar/order,Ravi Tiffins,4.1,South Indian,150
+https://www.zomato.com/hyderabad/agra-mithai-ghar-restaurant-1-charminar/order,Agra Mithai Ghar & Restaurant,4.2,"Mithai, Fast Food, Street Food",150
+https://www.zomato.com/hyderabad/ankapur-chicken-himayath-nagar/order,Ankapur Chicken,4.1,"South Indian, Hyderabadi",150
+https://www.zomato.com/hyderabad/sri-raghavendra-curry-express-rtc-x-roads/order,Sri Raghavendra Curry Express,4.4,"South Indian, Beverages, Desserts",150
+https://www.zomato.com/hyderabad/asoka-restaurant-koti/order,Asoka Restaurant,3.8,"North Indian, Chinese",150
+https://www.zomato.com/hyderabad/natural-juice-cycle-chandrayanagutta/order,Natural Juice Cycle,4.3,"Beverages, Juices, Shake",100
+https://www.zomato.com/hyderabad/dumont-somajiguda/order,Dumont,4.3,"Ice Cream, Beverages, Desserts, Shake, Tea",100
+https://www.zomato.com/hyderabad/a-m-tiffin-centre-himayath-nagar/order,A.M. Tiffin Centre,4.3,South Indian,100
+https://www.zomato.com/hyderabad/cakeland-sweets-bakery-chandrayanagutta/order,Cakeland Sweets & Bakery,3.7,"Bakery, Mithai, Fast Food, Desserts",100
+https://www.zomato.com/hyderabad/sri-raghavendra-tiffins-kacheguda/order,Sri Raghavendra Tiffins,4,South Indian,100
+https://www.zomato.com/hyderabad/momo-zone-the-momo-company-banjara-hills/order,Momo Zone - The Momo Company,2.7,Momos,100
+https://www.zomato.com/hyderabad/vr-raghavendra-tiffins-rajendra-nagar/order,VR Raghavendra Tiffins,3.8,South Indian,100
+https://www.zomato.com/hyderabad/keventers-milkshakes-desserts-banjara-hills/order,Keventers - Milkshakes & Desserts,4,"Beverages, Desserts, Ice Cream, Shake",100
+https://www.zomato.com/hyderabad/makhni-brothers-dilsukhnagar/order,Makhni Brothers,3.7,"North Indian, Kebab, Biryani, Hyderabadi, Mughlai, Desserts",100
+https://www.zomato.com/hyderabad/punjab-restaurant-nampally/order,Punjab Restaurant,4.2,"North Indian, Biryani, Chinese, Mughlai, Andhra, Beverages",100
+https://www.zomato.com/hyderabad/the-dessert-zone-banjara-hills/order,The Dessert Zone,3.9,"Desserts, Shake",100
+https://www.zomato.com/hyderabad/cakes-online-dilsukhnagar/order,Cakes Online,3.5,"Bakery, Ice Cream, Desserts",100
+https://www.zomato.com/hyderabad/sh-shawarma-amberpet/order,Sh Shawarma,4.3,"Fast Food, Momos, Shawarma",150
+https://www.zomato.com/hyderabad/snehitha-restaurant-musheerabad/order,Snehitha Restaurant,4.3,"South Indian, North Indian, Chinese, Fast Food, Beverages, Shake",150
+https://www.zomato.com/hyderabad/kaati-zone-rolls-and-wraps-1-banjara-hills/order,Kaati Zone Rolls And Wraps,4.3,"Rolls, Fast Food, Sichuan",150
+https://www.zomato.com/hyderabad/tif-in-attapur/order,Tif In,3.5,South Indian,150
+https://www.zomato.com/hyderabad/dine-hill-masab-tank/order,Dine Hill,4,"North Indian, Chinese",150
+https://www.zomato.com/hyderabad/sahadeva-reddy-pure-ghee-sweets-dilsukhnagar/order,Sahadeva Reddy Pure Ghee Sweets,4.2,"Mithai, Street Food, Fast Food",150
+https://www.zomato.com/hyderabad/coffee-and-more-banjara-hills/order,Coffee And More,4.3,"Fast Food, Coffee, Beverages",150
+https://www.zomato.com/hyderabad/meals101-kothapet/order,Meals101,3.6,"Asian, North Indian, Chinese, Mexican, Italian, Desserts, Beverages, Sichuan",150
+https://www.zomato.com/hyderabad/sri-sai-ram-darshini-tiffins-meals-saroor-nagar/order,Sri Sai Ram Darshini Tiffins & Meals,4,South Indian,150
+https://www.zomato.com/hyderabad/madina-tiffins-malakpet/order,Madina Tiffins,4.1,South Indian,150
+https://www.zomato.com/hyderabad/haji-ali-fresh-fruit-juices-srinagar-colony/order,Haji Ali Fresh Fruit Juices,4.3,"Beverages, Fast Food, Pizza",150
+https://www.zomato.com/hyderabad/noodle-house-amberpet/order,Noodle House,3.9,"Chinese, Sichuan",150
+https://www.zomato.com/hyderabad/sri-raghavendra-tiffin-centre-dilsukhnagar/order,Sri Raghavendra Tiffin Centre,3.9,South Indian,100
+https://www.zomato.com/hyderabad/45th-avenue-film-nagar/order,45th Avenue,4.1,"Cafe, Coffee, Burger, Sandwich, Beverages, Desserts, Tea, Continental",100
+https://www.zomato.com/hyderabad/phulkaas-indian-mughlai-musheerabad/order,Phulkaas - Indian & Mughlai,3.6,"Mughlai, North Indian, Andhra, Kebab",100
+https://www.zomato.com/hyderabad/mahalaxmi-tiffin-centre-nampally/order,Mahalaxmi Tiffin Centre,4.1,South Indian,100
+https://www.zomato.com/hyderabad/bismillah-hotel-musheerabad/order,Bismillah Hotel,3.7,"South Indian, Biryani",100
+https://www.zomato.com/hyderabad/swagth-hotel-charminar/order,Swagth Hotel,4.3,"North Indian, South Indian, Chinese, Desserts",100
+https://www.zomato.com/hyderabad/cakes11-kothapet/order,CAKES11,3.5,Bakery,100
+https://www.zomato.com/hyderabad/veggie-chinese-abids/order,Veggie Chinese,4.1,"Chinese, North Indian, Biryani",100
+https://www.zomato.com/hyderabad/shiva-sai-reddy-sweets-chaat-saroor-nagar/order,Shiva Sai Reddy Sweets & Chaat,4.4,"Mithai, Street Food",100
+https://www.zomato.com/hyderabad/south-india-tiffins-meals-fast-food-adda-chandrayanagutta/order,South India Tiffins Meals & Fast Food Adda,4.3,"Biryani, Chinese",100
+https://www.zomato.com/hyderabad/taiba-bakery-cafe-masab-tank/order,Taiba Bakery & Cafe,4.1,"Bakery, Fast Food, South Indian, Beverages, Shake, Pizza, Burger, Tea",100
+https://www.zomato.com/hyderabad/balaji-santosh-dhaba-rajendra-nagar/order,Balaji Santosh Dhaba,3.9,"Biryani, North Indian, Chinese",100
+https://www.zomato.com/hyderabad/hyderabad-tiffin-centre-2-charminar/order,Hyderabad Tiffin Centre,4.3,South Indian,50
+https://www.zomato.com/hyderabad/delicious-dosa-dilsukhnagar/order,Delicious Dosa,4.1,South Indian,50
+https://www.zomato.com/hyderabad/indiana-burgers-1-banjara-hills/order,Indiana Burgers,4,Burger,50
+https://www.zomato.com/hyderabad/swathi-coffee-shop-himayath-nagar/order,Swathi Coffee Shop,4.1,"North Indian, Chinese, South Indian, Beverages",50
+https://www.zomato.com/hyderabad/north-food-factory-rajendra-nagar/order,North Food Factory,3.9,"North Indian, Fast Food",50
+https://www.zomato.com/hyderabad/a2-fast-food-ramanthapur/order,A2 Fast Food,3.9,"Chinese, North Indian",50
+https://www.zomato.com/hyderabad/teju-mess-khairatabad/order,Teju Mess,3.6,"South Indian, North Indian, Biryani, Hyderabadi, Chinese",50
+https://www.zomato.com/hyderabad/annapurna-mess-1-kothapet/order,Annapurna Mess,3.6,"Hyderabadi, Chinese",50
+https://www.zomato.com/hyderabad/the-chocolate-room-1-attapur/order,The Chocolate Room,3.9,"Cafe, Italian, Mexican, Fast Food, Desserts, Beverages, Sichuan, Pizza",50
+https://www.zomato.com/hyderabad/gelatica-gelato-ice-cream-saroor-nagar/order,Gelatica Gelato - Ice Cream,4,"Ice Cream, Desserts, Healthy Food",50
+https://www.zomato.com/hyderabad/de-cafe-studio-malakpet/order,De Cafe Studio,3.6,"Cafe, Fast Food, Burger, Chinese, Sandwich, Desserts, Shake, Beverages",50
+https://www.zomato.com/hyderabad/samosa-party-dilsukhnagar/order,Samosa Party,4,"Street Food, Beverages",50
+https://www.zomato.com/hyderabad/cakes-king-dilsukhnagar/order,Cakes King,3.7,"Bakery, Ice Cream, Desserts",300
+https://www.zomato.com/hyderabad/gayathri-curry-point-narayanguda/order,Gayathri Curry Point,3.5,South Indian,300
+https://www.zomato.com/hyderabad/bench-cafe-restaurant-abids/order,Bench Cafe & Restaurant,4.2,"Cafe, Chinese, Fast Food, Beverages, Sichuan, Pizza, Burger, Momos",300
+https://www.zomato.com/hyderabad/theory-cafe-dessert-bar-jubilee-hills/order,Theory Cafe & Dessert Bar,4.1,"Cafe, Fast Food, Desserts, Beverages, Shake, Tea",300
+https://www.zomato.com/hyderabad/flying-spaghetti-monster-banjara-hills/order,Flying Spaghetti Monster,4.2,"Italian, Beverages, Pizza",300
+https://www.zomato.com/hyderabad/feranoz-banjara-hills/order,Feranoz,4.4,"Cafe, Bakery, Desserts, Pizza, Fast Food, Beverages, Italian",300
+https://www.zomato.com/hyderabad/mehfil-biryani-by-zakir-khan-masab-tank/order,Mehfil Biryani By Zakir Khan,3.5,"Biryani, Mughlai, Lucknowi, Hyderabadi, Kebab, North Indian, Desserts, Beverages",300
+https://www.zomato.com/hyderabad/teas-n-more-himayath-nagar/order,Tea's N More,3.5,"Fast Food, Street Food, Tea, Pizza, Sandwich",300
+https://www.zomato.com/hyderabad/qvinch-1-attapur/order,Qvinch,3.8,"Beverages, Juices, Shake, Salad, Pizza, Desserts, Healthy Food, Sandwich",300
+https://www.zomato.com/hyderabad/sri-balaji-mithai-bhandar-1-saroor-nagar/order,Sri Balaji Mithai Bhandar,4.3,"Mithai, Street Food",300
+https://www.zomato.com/hyderabad/garamm-chai-cafe-dilsukhnagar/order,Garamm Chai Cafe,4.1,"Fast Food, Burger, Sandwich, Street Food, Chinese, Pizza, Beverages, Sichuan",300
+https://www.zomato.com/hyderabad/new-delhi-mithai-wala-musheerabad/order,New Delhi Mithai Wala,4.1,"Mithai, Street Food",300
+https://www.zomato.com/hyderabad/pizza-stories-charminar/order,Pizza Stories,3.1,Pizza,200
+https://www.zomato.com/hyderabad/aangan-yaatri-nivas-sp-road-secunderabad/order,Aangan - Yaatri Nivas,4.1,"North Indian, Andhra, Chinese, Beverages, Desserts",200
+https://www.zomato.com/hyderabad/tara-juice-world-malakpet/order,Tara Juice World,4.1,"Beverages, Juices, Shake",200
+https://www.zomato.com/hyderabad/hameedi-confectioner-nampally/order,Hameedi Confectioner,4.5,"Mithai, Desserts",200
+https://www.zomato.com/hyderabad/new-balaji-santosh-family-dhaba-rajendra-nagar/order,New Balaji Santosh Family Dhaba,3.9,"Fast Food, Chinese, North Indian",200
+https://www.zomato.com/hyderabad/50-fruits-mehdipatnam/order,50 Fruits,4.2,"Beverages, Street Food, Sandwich, Salad, Shake, Juices",200
+https://www.zomato.com/hyderabad/aarth-authentic-claypot-biryanis-kothapet/order,Aarth - Authentic Claypot Biryanis,3.9,"Biryani, Hyderabadi, Kebab",200
+https://www.zomato.com/hyderabad/chotus-the-food-people-attapur/order,Chotu's - The Food People,4.1,"North Indian, Chinese",200
+https://www.zomato.com/hyderabad/lunchbox-meals-and-thalis-1-saroor-nagar/order,LunchBox - Meals and Thalis,4,"North Indian, Healthy Food",200
+https://www.zomato.com/hyderabad/splurge-thickshakes-and-milkshakes-1-himayath-nagar/order,Splurge - Thickshakes And Milkshakes,3.5,"Shake, Beverages",200
+https://www.zomato.com/hyderabad/burger-it-up-1-banjara-hills/order,Burger It Up,4.2,"Burger, Fast Food, Beverages, Shake",200
+https://www.zomato.com/hyderabad/seasons-xprs-banjara-hills/order,Seasons Xprs,4.2,"Lebanese, Arabian, Rolls, Fast Food, Pizza",200
+https://www.zomato.com/hyderabad/the-hole-in-the-wall-cafe-jubilee-hills/order,The Hole in The Wall Cafe,4.1,"Cafe, American, Italian, Beverages, Fast Food, Shake, Burger, Waffle",250
+https://www.zomato.com/hyderabad/the-waffle-co-2-himayath-nagar/order,The Waffle Co,4.1,"Waffle, Pancake, Beverages, Shake",250
+https://www.zomato.com/hyderabad/royal-tiffin-centre-tolichowki/order,Royal Tiffin Centre,4,"South Indian, Street Food, Beverages",250
+https://www.zomato.com/hyderabad/paradise-fast-food-juice-mehdipatnam/order,Paradise Fast Food & Juice,3.7,"North Indian, South Indian, Chinese, Kebab, Sichuan",250
+https://www.zomato.com/hyderabad/new-babar-bakery-2-falaknuma/order,New Babar Bakery,4,"Fast Food, Bakery, Desserts",250
+https://www.zomato.com/hyderabad/sivaramareddy-ghee-sweets-chat-kothapet/order,Sivaramareddy Ghee Sweets & Chat,4.3,"Mithai, Street Food, Fast Food",250
+https://www.zomato.com/hyderabad/m-s-tiffin-chat-abids/order,M S Tiffin & Chat,4.1,"South Indian, Biryani",250
+https://www.zomato.com/hyderabad/new-satyanarayan-mithai-bhandar-begum-bazaar/order,New Satyanarayan Mithai Bhandar,4.1,"Mithai, Desserts",250
+https://www.zomato.com/hyderabad/the-funnel-hill-creamery-jubilee-hills/order,The Funnel Hill Creamery,4.1,"Cafe, Fast Food, Waffle, Pancake, Coffee, Beverages",250
+https://www.zomato.com/hyderabad/mom-special-attapur/order,Mom Special,4.2,"North Indian, South Indian",250
+https://www.zomato.com/hyderabad/the-burrito-bowl-himayath-nagar/order,The Burrito Bowl,4,Healthy Food,250
+https://www.zomato.com/hyderabad/continue-night-way-1-falaknuma/order,Continue Night Way,3.6,North Indian,250
+https://www.zomato.com/hyderabad/superly-the-cosmo-cafe-rtc-x-roads/order,Superly - The Cosmo Cafe,3.4,"Fast Food, Pizza, Momos",200
+https://www.zomato.com/hyderabad/shero-home-food-chettinad-mehdipatnam/order,Shero Home Food - Chettinad,4,South Indian,200
+https://www.zomato.com/hyderabad/prathi-roju-inti-meals-curries-dilsukhnagar/order,Prathi Roju Inti Meals Curries,3.3,South Indian,200
+https://www.zomato.com/hyderabad/agra-sweets-adikmet/order,Agra Sweets,4.2,"Mithai, Street Food",200
+https://www.zomato.com/hyderabad/meals101-masab-tank/order,Meals101,3.5,"Asian, North Indian, Chinese, Mexican, Italian, Desserts, Beverages, Sichuan",200
+https://www.zomato.com/hyderabad/sri-vaibhav-tiffins-dilsukhnagar/order,Sri Vaibhav Tiffins,4.2,South Indian,200
+https://www.zomato.com/hyderabad/qaffeine-by-ohris-malakpet/order,Qaffeine By Ohri's,4.4,"Cafe, Fast Food, Wraps, Pizza, Beverages, Shake, Desserts",200
+https://www.zomato.com/hyderabad/balaji-hukmichand-mithai-bhandar-saroor-nagar/order,Balaji Hukmichand Mithai Bhandar,4.3,"Mithai, Street Food",200
+https://www.zomato.com/hyderabad/lingaiah-tiffin-center-nampally/order,Lingaiah Tiffin Center,4.4,South Indian,200
+https://www.zomato.com/hyderabad/balaji-mithai-bhandar-meerpet/order,Balaji Mithai Bhandar,4.3,"Mithai, Desserts",200
+https://www.zomato.com/hyderabad/italian-hub-charminar/order,Italian Hub,3.9,"Pizza, Fast Food",200
+https://www.zomato.com/hyderabad/pallavi-tiffin-centre-1-attapur/order,Pallavi Tiffin Centre,4.2,South Indian,200
+https://www.zomato.com/hyderabad/swathi-mess-dhaba-koti/order,Swathi Mess & Dhaba,4.1,"North Indian, Chinese, Sichuan",100
+https://www.zomato.com/hyderabad/sanjos-donuts-banjara-hills/order,Sanjos Donuts,4,"Fast Food, Beverages, Desserts",100
+https://www.zomato.com/hyderabad/juice-splash-ghansi-bazaar/order,Juice Splash,4.1,"Beverages, Juices, Shake",100
+https://www.zomato.com/hyderabad/15-andra-pappu-currys-meals-dilsukhnagar/order,15 Andra Pappu Currys & Meals,3.5,"South Indian, North Indian, Andhra",100
+https://www.zomato.com/hyderabad/ramadevi-curry-point-mess-dilsukhnagar/order,Ramadevi Curry Point & Mess,3.5,"South Indian, Biryani, North Indian",100
+https://www.zomato.com/hyderabad/vasudo-dhaba-inn-pg-road-secunderabad/order,Vasudo Dhaba Inn,4.1,"North Indian, Chinese",100
+https://www.zomato.com/hyderabad/sahadeva-reddys-chinese-kitchen-dilsukhnagar/order,Sahadeva Reddy's Chinese Kitchen,3.7,"Chinese, Sichuan",100
+https://www.zomato.com/hyderabad/slurpy-shakes-banjara-hills/order,Slurpy Shakes,4,"Beverages, Desserts, Bakery, Shake",100
+https://www.zomato.com/hyderabad/low-budget-curry-point-dilsukhnagar/order,Low Budget Curry Point,4,North Indian,100
+https://www.zomato.com/hyderabad/singhs-pure-veg-restaurant-mg-road-secunderabad/order,Singh's Pure Veg Restaurant,3.9,"North Indian, Chinese",100
+https://www.zomato.com/hyderabad/balaji-mahesh-mithai-bhandar-masab-tank/order,Balaji Mahesh Mithai Bhandar,4.3,"Mithai, Street Food",100
+https://www.zomato.com/hyderabad/the-brooklyn-creamery-healthy-ice-cream-2-banjara-hills/order,The Brooklyn Creamery - Healthy Ice Cream,4,"Ice Cream, Desserts",100
+https://www.zomato.com/hyderabad/rhm-bakers-2-adikmet/order,RHM Bakers,3.2,"Bakery, Fast Food, Shake, Beverages",50
+https://www.zomato.com/hyderabad/apple-cut-fast-food-juice-center-himayath-nagar/order,Apple Cut Fast Food & Juice Center,4.1,Juices,50
+https://www.zomato.com/hyderabad/10-rupee-meals-dilsukhnagar/order,10 Rupee Meals,3.4,"South Indian, North Indian, Beverages",50
+https://www.zomato.com/hyderabad/fat-tiger-banjara-hills/order,Fat Tiger,3.5,"Fast Food, Beverages, Coffee, Pizza, Burger, Momos, Tea",50
+https://www.zomato.com/hyderabad/masala-medley-necklace-road/order,Masala Medley,4,"North Indian, Chinese, Sichuan",50
+https://www.zomato.com/hyderabad/a1-fast-food-and-nahari-centre-charminar/order,A1 Fast Food And Nahari Centre,3.5,"Chinese, Mughlai",50
+https://www.zomato.com/hyderabad/ur-life-cafe-jubilee-hills/order,UR Life Cafe,4,"Cafe, Continental, Healthy Food, Italian, Pizza, Tea",50
+https://www.zomato.com/hyderabad/rahul-tiffin-fast-food-centre-himayath-nagar/order,Rahul Tiffin & Fast Food Centre,3.5,South Indian,50
+https://www.zomato.com/hyderabad/summer-land-nampally/order,Summer Land,4.3,"Salad, Desserts, Beverages, Shake",50
+https://www.zomato.com/hyderabad/wholesale-bakery-l-b-nagar/order,Wholesale Bakery,3.9,"Bakery, Desserts, Fast Food, Burger, Shawarma",50
+https://www.zomato.com/hyderabad/té-a-tea-tradition-kacheguda/order,Té - A Tea Tradition,4.2,"Tea, Beverages, Fast Food, Shake, Coffee",50
+https://www.zomato.com/hyderabad/swastik-udupi-veg-1-nampally/order,Swastik Udupi Veg,3.6,"North Indian, South Indian, Chinese",50
+https://www.zomato.com/hyderabad/jamies-pizzeria-by-jamie-oliver-jubilee-hills/order,Jamie's Pizzeria By Jamie Oliver,3.9,"Pizza, Italian",350
+https://www.zomato.com/hyderabad/dostea-somajiguda/order,Dostea,4.2,"Beverages, Street Food, Shake, Sandwich, Tea",350
+https://www.zomato.com/hyderabad/feel-in-saudia-shawarma-malakpet/order,Feel In Saudia Shawarma,4.3,Shawarma,350
+https://www.zomato.com/hyderabad/bikaner-mithaiwala-langer-houz/order,Bikaner Mithaiwala,3.7,"Mithai, Street Food",350
+https://www.zomato.com/hyderabad/freshygiene@365-1-kothapet/order,FresHygiene@365,3.9,North Indian,350
+https://www.zomato.com/hyderabad/moghals-tiffin-centre-falaknuma/order,Moghal's Tiffin Centre,4,South Indian,350
+https://www.zomato.com/hyderabad/hotel-miskeen-ghansi-bazaar/order,Hotel Miskeen,4.1,"Mughlai, Hyderabadi",350
+https://www.zomato.com/hyderabad/roti-express-dilsukhnagar/order,Roti Express,-,North Indian,350
+https://www.zomato.com/hyderabad/cakes-pastries-1-dilsukhnagar/order,Cakes & Pastries,4,"Bakery, Desserts",350
+https://www.zomato.com/hyderabad/vinayak-tiffins-nallakunta/order,Vinayak Tiffins,4.1,South Indian,350
+https://www.zomato.com/hyderabad/naseeb-hotel-1-mehdipatnam/order,Naseeb Hotel,3.8,Hyderabadi,350
+https://www.zomato.com/hyderabad/anupama-hotel-veg-non-veg-lakdikapul/order,Anupama Hotel Veg & Non Veg,3.7,"Hyderabadi, Biryani",350
+https://www.zomato.com/hyderabad/delhiwala-sweets-chat-mehdipatnam/order,Delhiwala Sweets & Chat,4.1,"Mithai, Street Food",150
+https://www.zomato.com/hyderabad/kouzina-kafe-the-food-court-1-banjara-hills/order,Kouzina Kafe - The Food Court,3.8,"Fast Food, Bakery, Desserts, Shake",150
+https://www.zomato.com/hyderabad/gourmet-ice-cream-cakes-by-baskin-robbins-l-b-nagar/order,Gourmet Ice Cream Cakes By Baskin Robbins,4.2,"Bakery, Desserts, Ice Cream",150
+https://www.zomato.com/hyderabad/new-delhi-mithaiwala-adikmet/order,New Delhi Mithaiwala,4.1,"Mithai, Street Food",150
+https://www.zomato.com/hyderabad/pvr-café-malakpet/order,PVR Café,3.5,"Fast Food, Momos, Beverages",150
+https://www.zomato.com/hyderabad/ritz-food-world-langer-houz/order,Ritz Food World,4,"Fast Food, Desserts, Beverages",150
+https://www.zomato.com/hyderabad/juice-box-mehdipatnam/order,Juice Box,3.9,"Beverages, Sandwich, Desserts, Shake, Healthy Food",150
+https://www.zomato.com/hyderabad/van-lavino-jubilee-hills/order,Van Lavino,4.2,"Cafe, Desserts, Pizza, Burger, Waffle, Tea",150
+https://www.zomato.com/hyderabad/sri-siddhi-vinayaka-tiffins-meals-sweets-dilsukhnagar/order,"Sri Siddhi Vinayaka Tiffins, Meals & Sweets",4.2,South Indian,150
+https://www.zomato.com/dosa-king-the-taste-of-south-f/order,Dosa King - The Taste Of South,3.9,South Indian,150
+https://www.zomato.com/hyderabad/paris-waffle-co-himayath-nagar/order,Paris Waffle Co.,3,"Waffle, Desserts",150
+https://www.zomato.com/hyderabad/new-al-madina-hotel-saroor-nagar/order,New Al Madina Hotel,-,"Mughlai, Chinese",150
+https://www.zomato.com/hyderabad/swathi-tiffiens-somajiguda-somajiguda/order,Swathi Tiffiens Somajiguda,3.7,"Chinese, Beverages, Shake",100
+https://www.zomato.com/hyderabad/dosa-house-restaurant-1-masab-tank/order,Dosa House Restaurant,4.3,South Indian,100
+https://www.zomato.com/hyderabad/bagara-rice-and-curries-center-dilsukhnagar/order,Bagara Rice And Curries Center,3.5,Andhra,100
+https://www.zomato.com/hyderabad/dude-restaurant-dilsukhnagar/order,Dude Restaurant,3.5,"Chinese, Lebanese, Biryani",100
+https://www.zomato.com/hyderabad/sanwariya-mithai-wala-attapur/order,Sanwariya Mithai Wala,4.3,"Mithai, Street Food",100
+https://www.zomato.com/hyderabad/mamatha-darshini-koti/order,Mamatha Darshini,4,South Indian,100
+https://www.zomato.com/hyderabad/wok-on-by-phulkaas-musheerabad/order,Wok On! By Phulkaas,4.1,"Chinese, Sichuan, Momos",100
+https://www.zomato.com/hyderabad/cakes-king-1-banjara-hills/order,Cakes King,3.6,"Bakery, Ice Cream, Desserts",100
+https://www.zomato.com/hyderabad/shyam-singh-chat-bhandar-1-begum-bazaar/order,Shyam Singh Chat Bhandar,3.7,"Street Food, Fast Food",100
+https://www.zomato.com/hyderabad/meethe-miya-1-banjara-hills/order,Meethe Miya,4.2,Mithai,100
+https://www.zomato.com/hyderabad/burger-eats-1-dilsukhnagar/order,Burger Eats,3.9,"Fast Food, Beverages, Biryani, Desserts, Burger",100
+https://www.zomato.com/hyderabad/sri-ruchulu-adikmet/order,Sri Ruchulu,3.7,South Indian,100
+https://www.zomato.com/hyderabad/curry-pot-pg-road-secunderabad/order,Curry Pot,4,"North Indian, Chinese, South Indian, Continental, Sandwich, Beverages, Juices, Ice Cream",300
+https://www.zomato.com/hyderabad/shree-balaji-suraj-mithai-bhandar-meerpet/order,Shree Balaji Suraj Mithai Bhandar,4.1,"Mithai, Street Food",300
+https://www.zomato.com/hyderabad/waffle-house-banjara-hills/order,Waffle House,3.7,Cafe,300
+https://www.zomato.com/hyderabad/mayodia-cakes-n-bakes-saroor-nagar/order,Mayodia Cakes N Bakes,4.3,"Bakery, Desserts, Fast Food",300
+https://www.zomato.com/hyderabad/fruitfull-dilsukhnagar/order,Fruitfull,3.9,Healthy Food,300
+https://www.zomato.com/hyderabad/iceberg-organic-icecreams-himayath-nagar/order,Iceberg Organic Icecreams,3.8,"Desserts, Ice Cream",300
+https://www.zomato.com/hyderabad/birthday-cakes-saroor-nagar/order,Birthday Cakes,4,Bakery,300
+https://www.zomato.com/hyderabad/the-joint-himayath-nagar/order,The Joint,3.4,"Fast Food, Lebanese",300
+https://www.zomato.com/hyderabad/ridas-biryani-house-home-made-food-chandrayanagutta/order,Rida's Biryani House (Home Made Food),-,"Hyderabadi, North Indian",300
+https://www.zomato.com/hyderabad/currypoint-foods-of-shathamana-bavathi-dilsukhnagar/order,Currypoint Foods Of Shathamana Bavathi,-,South Indian,300
+https://www.zomato.com/hyderabad/lunchbox-meals-and-thalis-saroor-nagar/order,LunchBox - Meals and Thalis,3.5,"Asian, Biryani, North Indian",300
+https://www.zomato.com/hyderabad/gupta-tiffins-fast-food-charminar/order,Gupta Tiffins & Fast Food,4.1,"South Indian, Chinese, Sichuan",300
+https://www.zomato.com/hyderabad/tasty-bite-mehdipatnam/order,Tasty Bite,-,"Burger, Chinese, Fast Food, Beverages",100
+https://www.zomato.com/hyderabad/cakes-online-1-dilsukhnagar/order,Cakes Online,3.8,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/laddu-ji-malakpet/order,Laddu ji,3.8,"Mithai, Desserts",100
+https://www.zomato.com/hyderabad/mahboob-bakers-chandrayanagutta/order,Mahboob Bakers,3.8,"Bakery, Desserts, Fast Food",100
+https://www.zomato.com/hyderabad/house-of-candy-panjagutta/order,House Of Candy,4,Desserts,100
+https://www.zomato.com/hyderabad/kiran-ki-rasoi-charminar/order,Kiran Ki Rasoi,4.1,"North Indian, Chinese, Biryani, Desserts",100
+https://www.zomato.com/hyderabad/ttt-juice-center-mehdipatnam/order,TTT Juice Center,4.2,"Juices, Beverages, Shake",100
+https://www.zomato.com/hyderabad/sri-rami-reddy-pure-ghee-sweets-railway-station-road-secunderabad/order,Sri Rami Reddy Pure Ghee Sweets,4.3,"Mithai, Street Food",100
+https://www.zomato.com/hyderabad/punjab-national-hotel-pnh-banjara-hills/order,Punjab National Hotel-PNH,4,"Mughlai, North Indian",100
+https://www.zomato.com/hyderabad/mast-kalandar-the-kitchen-koti/order,Mast Kalandar The Kitchen,4.1,"North Indian, Rajasthani, Fast Food, Street Food",100
+https://www.zomato.com/hyderabad/masala-republic-himayath-nagar/order,Masala Republic,4.2,"North Indian, Continental, Healthy Food, Fast Food, Burger, Pasta, Beverages, Desserts",100
+https://www.zomato.com/hyderabad/punjabi-rasoi-2-attapur/order,Punjabi Rasoi,4.3,North Indian,100
+https://www.zomato.com/hyderabad/shiv-shakti-jodhpur-sweets-begum-bazaar/order,Shiv Shakti Jodhpur Sweets,4.2,"Mithai, Street Food",50
+https://www.zomato.com/hyderabad/indulge-ice-cream-by-almond-house-1-banjara-hills/order,Indulge Ice Cream By Almond House,4,"Desserts, Ice Cream",50
+https://www.zomato.com/hyderabad/juice-express-dilsukhnagar/order,Juice Express,-,"Juices, Healthy Food",50
+https://www.zomato.com/hyderabad/homely-meals-and-curries-center-dilsukhnagar/order,Homely Meals And Curries Center,-,Mughlai,50
+https://www.zomato.com/hyderabad/bai-ji-ka-choka-begum-bazaar/order,Bai Ji Ka Choka,4,South Indian,50
+https://www.zomato.com/hyderabad/amrit-juice-centre-rtc-x-roads/order,Amrit Juice Centre,3.9,"Beverages, Juices, Shake",50
+https://www.zomato.com/hyderabad/amma-special-food-amberpet/order,Amma Special Food,4,South Indian,50
+https://www.zomato.com/hyderabad/gayathri-bhavan-somajiguda/order,Gayathri Bhavan,4,"South Indian, North Indian, Chinese",50
+https://www.zomato.com/hyderabad/desi-food-zone-charminar/order,Desi Food Zone,-,"Maharashtrian, Fast Food, Chinese, North Indian, Bakery, Mithai, Desserts",50
+https://www.zomato.com/hyderabad/tcs-the-cake-story-himayath-nagar/order,TCS The Cake Story,4,Bakery,50
+https://www.zomato.com/hyderabad/gladiator-nutrition-and-food-attapur/order,Gladiator Nutrition And Food,4,"Fast Food, Healthy Food, Beverages",50
+https://www.zomato.com/hyderabad/biryani-house-6-charminar/order,Biryani House,3.4,"North Indian, Fast Food, Desserts",50
+https://www.zomato.com/hyderabad/ae-spice-villa-kothapet/order,Ae Spice Villa,3.7,"North Indian, Fast Food",150
+https://www.zomato.com/hyderabad/nue-cafe-jubilee-hills/order,Nue Cafe,3.9,"Cafe, Bakery, Pizza, Italian, Healthy Food, Tea",150
+https://www.zomato.com/hyderabad/as-bakers-saroor-nagar/order,As Bakers,4.1,"Bakery, Desserts",150
+https://www.zomato.com/hyderabad/tasty-guru-mehdipatnam/order,Tasty Guru,4,"South Indian, Chinese",150
+https://www.zomato.com/hyderabad/1-kg-curries-dilsukhnagar/order,1 Kg Curries,-,South Indian,150
+https://www.zomato.com/hyderabad/brista-restaurant-saroor-nagar/order,Brista Restaurant,3.9,"Chinese, North Indian, Biryani, Mughlai, Sichuan, Shawarma",150
+https://www.zomato.com/hyderabad/hussains-food-court-1-mehdipatnam/order,Hussain's Food Court,-,"Chinese, South Indian",150
+https://www.zomato.com/hyderabad/the-favorite-biryani-and-shawarma-dilsukhnagar/order,The Favorite Biryani And Shawarma,3.2,"Biryani, Chinese, Shawarma",150
+https://www.zomato.com/hyderabad/zorro-milkshakes-and-thickshakes-himayath-nagar/order,Zorro - Milkshakes And Thickshakes,3.5,"Shake, Beverages",150
+https://www.zomato.com/hyderabad/bhagyalaxmi-tiffin-centre-adikmet/order,Bhagyalaxmi Tiffin Centre,4,South Indian,150
+https://www.zomato.com/hyderabad/juice-and-sandwich-point-1-mehdipatnam/order,Juice And Sandwich Point,4.1,"Beverages, Sandwich, Juices, Salad, Healthy Food, Shake",150
+https://www.zomato.com/hyderabad/shahi-zaiqa-basheer-bagh/order,Shahi Zaiqa,3.8,Hyderabadi,150
+https://www.zomato.com/hyderabad/tempteas-rtc-x-roads/order,Tempteas,3.6,"Fast Food, Street Food, Ice Cream, Beverages",100
+https://www.zomato.com/hyderabad/the-kulfi-falooda-project-banjara-hills/order,The Kulfi Falooda Project,3.1,Ice Cream,100
+https://www.zomato.com/hyderabad/shawarma-station-l-b-nagar/order,Shawarma Station,3.6,"Fast Food, Shawarma",100
+https://www.zomato.com/hyderabad/sundae-everyday-ice-creams-banjara-hills/order,Sundae Everyday Ice Creams,3.8,"Ice Cream, Desserts, Shake",100
+https://www.zomato.com/hyderabad/mohammedi-confectioners-1-ghansi-bazaar/order,Mohammedi Confectioners,4.1,Mithai,100
+https://www.zomato.com/hyderabad/the-pork-affair-1-koti/order,The Pork Affair,4.3,"South Indian, Biryani",100
+https://www.zomato.com/hyderabad/i-creamy-cafe-nallakunta/order,I-Creamy Cafe,3.7,"Fast Food, Sandwich, Ice Cream, Beverages, Shake",100
+https://www.zomato.com/hyderabad/shake-studio-himayath-nagar/order,Shake Studio,3.7,"Beverages, Fast Food, Shake, Waffle",100
+https://www.zomato.com/hyderabad/royal-biryani-kababs-masab-tank/order,Royal Biryani & Kababs,3.7,"North Indian, Chinese, Biryani",100
+https://www.zomato.com/hyderabad/sri-krishna-sweets-ameerpet/order,Sri Krishna Sweets,4.7,Mithai,100
+https://www.zomato.com/hyderabad/the-health-bowl-dilsukhnagar/order,The Health Bowl,3.1,"Healthy Food, Beverages, Shake",100
+https://www.zomato.com/hyderabad/dosa-express-dilsukhnagar/order,Dosa Express,4.1,South Indian,100
+https://www.zomato.com/hyderabad/n-village-restaurant-meerpet/order,N Village Restaurant,4.2,"Chinese, North Indian, Mughlai",300
+https://www.zomato.com/hyderabad/cocoworks-ameerpet/order,Cocoworks,3.9,Beverages,300
+https://www.zomato.com/hyderabad/cravings-cafe-2-attapur/order,Cravings Cafe,4,"Cafe, Pizza, Fast Food",300
+https://www.zomato.com/hyderabad/krishna-idlis-dosas-abids/order,Krishna Idli's & Dosa's,3.9,"South Indian, Pizza",300
+https://www.zomato.com/hyderabad/fnp-cakes-and-more-marredpally-secunderabad/order,FNP Cakes And More,4,Bakery,300
+https://www.zomato.com/hyderabad/hassan-grand-restaurant-mehdipatnam/order,Hassan Grand Restaurant,3.8,"Chinese, South Indian, North Indian, Mughlai, Street Food, Biryani",300
+https://www.zomato.com/hyderabad/aroma-food-court-himayath-nagar/order,Aroma Food Court,4,"South Indian, Chinese",300
+https://www.zomato.com/hyderabad/cafe-aroha-kothapet/order,Cafe Aroha,3.2,"Pizza, Burger, Fast Food",300
+https://www.zomato.com/hyderabad/cake-krejoi-rtc-x-roads/order,Cake Krejoi,4,"Bakery, Desserts, Shake",300
+https://www.zomato.com/hyderabad/bhaijaans-avenue-multi-cuisine-restaurant-chandrayanagutta/order,Bhaijaan's Avenue Multi cuisine Restaurant,New,"Fast Food, Chinese, North Indian, Biryani, Mughlai, Beverages",300
+https://www.zomato.com/hyderabad/green-park-hotel-saroor-nagar/order,Green Park Hotel,-,Hyderabadi,300
+https://www.zomato.com/hyderabad/100-rakhala-inti-bojanam-dilsukhnagar/order,100 Rakhala Inti Bojanam,-,"Street Food, Andhra",300
+https://www.zomato.com/hyderabad/gongura-pappu-tomato-appu-palakura-pappu-100-curries-dilsukhnagar/order,"Gongura Pappu,Tomato Appu,Palakura Pappu 100 curries",3.5,South Indian,100
+https://www.zomato.com/hyderabad/sri-balaji-sweets-charminar/order,Sri Balaji Sweets,3.9,"Mithai, Street Food",100
+https://www.zomato.com/hyderabad/d-lounge-tea-shakes-and-snacks-dilsukhnagar/order,D Lounge- Tea Shakes And Snacks,3.8,"Beverages, Shake, Tea, Juices, Street Food",100
+https://www.zomato.com/hyderabad/frykiki-3-himayath-nagar/order,Frykiki,3.4,"Cafe, Fast Food, Chinese, Beverages",100
+https://www.zomato.com/hyderabad/roobaroo-cafe-1-saroor-nagar/order,Roobaroo Cafe,4.3,"Cafe, Continental, Fast Food, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/sri-balaji-mithai-bhandar-3-falaknuma/order,Sri Balaji Mithai Bhandar,3.9,Mithai,100
+https://www.zomato.com/hyderabad/tea-time-falaknuma/order,Tea Time,4,"Beverages, Tea",100
+https://www.zomato.com/hyderabad/cakes-pastries-banjara-hills/order,Cakes & Pastries,3.9,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/heritage-ice-creams-saroor-nagar/order,Heritage Ice Creams,-,Ice Cream,100
+https://www.zomato.com/hyderabad/star-paan-shop-ghansi-bazaar/order,Star Paan Shop,4.3,"Paan, Ice Cream",100
+https://www.zomato.com/hyderabad/raju-rani-inti-ruchulu-dilsukhnagar/order,Raju Rani Inti Ruchulu,-,Mughlai,100
+https://www.zomato.com/hyderabad/saleem-stores-the-pan-parlour-malakpet/order,Saleem Stores The Pan Parlour,4.3,Paan,100
+https://www.zomato.com/hyderabad/shresta-ruchi-food-court-khairatabad/order,Shresta Ruchi Food Court,3.6,"Chinese, South Indian, North Indian",100
+https://www.zomato.com/hyderabad/getawhey-healthy-ice-creams-2-malakpet/order,GetAWhey - Healthy Ice Creams,4,Ice Cream,100
+https://www.zomato.com/hyderabad/the-wrap-co-masab-tank/order,The Wrap Co.,3.7,"Wraps, Rolls, Fast Food, Desserts, Beverages",100
+https://www.zomato.com/hyderabad/cakes-99-1-dilsukhnagar/order,Cakes 99,3.9,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/new-agra-sweets-begum-bazaar/order,New Agra Sweets,4.4,"Mithai, Desserts",100
+https://www.zomato.com/hyderabad/kohinoor-restaurant-falaknuma/order,Kohinoor Restaurant,-,"North Indian, Chinese, Seafood",100
+https://www.zomato.com/hyderabad/bombay-bar-restaurant-nampally/order,Bombay Bar & Restaurant,3.8,"North Indian, Chinese, Seafood",100
+https://www.zomato.com/hyderabad/sri-bhanu-tiffin-center-masab-tank/order,Sri Bhanu Tiffin Center,4,"Andhra, Hyderabadi",100
+https://www.zomato.com/hyderabad/milan-bakery-falaknuma/order,Milan Bakery,3.5,Bakery,100
+https://www.zomato.com/hyderabad/occasionkart-cakes-dilsukhnagar/order,Occasionkart Cakes,4.1,"Bakery, Desserts, Pizza, Sandwich, Burger, Fast Food",100
+https://www.zomato.com/hyderabad/cakes-den-2-dilsukhnagar/order,Cakes Den,3.5,"Bakery, Desserts, Ice Cream",100
+https://www.zomato.com/hyderabad/govind-di-maggie-attapur/order,Govind Di Maggie,3.8,Fast Food,100
+https://www.zomato.com/hyderabad/jai-balaji-mithai-bhandar-meerpet/order,Jai Balaji Mithai Bhandar,-,"Mithai, Street Food",150
+https://www.zomato.com/hyderabad/cakes-papaji-banjara-hills/order,Cakes Papaji,3.2,"Bakery, Desserts",150
+https://www.zomato.com/hyderabad/sri-sai-bakery-1-saroor-nagar/order,Sri Sai Bakery,4.1,"Bakery, Desserts, Fast Food, Beverages",150
+https://www.zomato.com/hyderabad/patels-chips-crisps-kacheguda/order,Patel's Chips & Crisps,4.3,Street Food,150
+https://www.zomato.com/hyderabad/badam-and-kaju-ki-jali-the-imperial-sweet-house-charminar/order,Badam And Kaju Ki Jali ( The Imperial Sweet House),4.4,Mithai,150
+https://www.zomato.com/hyderabad/angel-bakers-koti/order,Angel Bakers,4.2,"Bakery, Desserts",150
+https://www.zomato.com/hyderabad/sri-balaji-papalal-mithai-bhandar-adikmet/order,Sri Balaji Papalal Mithai Bhandar,4.3,"Mithai, Street Food",150
+https://www.zomato.com/hyderabad/us-live-pops-khairatabad/order,US Live Pops,4.6,Fast Food,150
+https://www.zomato.com/hyderabad/havmor-1-himayath-nagar/order,Havmor,4,"Ice Cream, Desserts, Beverages",150
+https://www.zomato.com/hyderabad/famous-fried-chicken-l-b-nagar/order,Famous Fried Chicken,4,"North Indian, Fast Food, Wraps, Desserts, Shake",150
+https://www.zomato.com/hyderabad/govis-organic-foods-khairatabad/order,Govi's Organic Foods,3.9,Mithai,150
+https://www.zomato.com/hyderabad/heavenly-biryani-dilsukhnagar/order,Heavenly Biryani,-,"Biryani, Beverages",150
+https://www.zomato.com/hyderabad/cake-24x7-1-ameerpet/order,Cake 24x7,3.6,"Bakery, Desserts",150
+https://www.zomato.com/hyderabad/lassi-falooda-co-banjara-hills/order,Lassi & Falooda Co.,3.2,Beverages,150
+https://www.zomato.com/hyderabad/homely-kitchen-charminar/order,Homely Kitchen,3.8,"North Indian, Fast Food, Desserts",150
+https://www.zomato.com/hyderabad/kitchen-maha-raja-2-charminar/order,Kitchen Maha Raja,3.7,"North Indian, Fast Food, Desserts",150
+https://www.zomato.com/hyderabad/aaromale-film-nagar/order,Aaromale,3.9,"Cafe, Mexican, Italian, Pizza, Coffee, Tea, Desserts, Burger",150
+https://www.zomato.com/hyderabad/special-cakes-meerpet/order,Special Cakes,3.7,"Bakery, Desserts",150
+https://www.zomato.com/hyderabad/flavours-curated-by-itc-kakatiya-begumpet/order,Flavours Curated By ITC Kakatiya,4.1,"North Indian, Mughlai, Biryani",150
+https://www.zomato.com/hyderabad/eggsplode-1-narayanguda/order,Eggsplode,3.9,"Healthy Food, Fast Food, Beverages",150
+https://www.zomato.com/hyderabad/burger-hubs-l-b-nagar/order,Burger Hub's,3.6,"Burger, Fast Food, Desserts",150
+https://www.zomato.com/hyderabad/sitara-foods-basheer-bagh/order,Sitara Foods,4.1,South Indian,150
+https://www.zomato.com/hyderabad/the-sandwich-story-banjara-hills/order,The Sandwich Story,3.1,"Sandwich, Beverages",150
+https://www.zomato.com/hyderabad/24-7-gallery-café-hyatt-place-banjara-hills/order,24/7 Gallery Café - Hyatt Place,3.4,"Beverages, North Indian, Asian, Continental, Sichuan, Waffle",150
+https://www.zomato.com/hyderabad/sree-sai-satyanarayana-mithai-bhandar-begum-bazaar/order,Sree Sai Satyanarayana Mithai Bhandar,4.2,"Mithai, Street Food, Desserts",100
+https://www.zomato.com/hyderabad/ironhill-cafe-jubilee-hills/order,Ironhill Cafe,2.8,"Cafe, Beverages, Coffee, Shake, Tea, Bubble Tea, Pancake",100
+https://www.zomato.com/hyderabad/balaji-mithai-wala-chat-saroor-nagar/order,Balaji Mithai Wala & Chat,3.7,"Mithai, Street Food",100
+https://www.zomato.com/hyderabad/wild-fries-and-corn-falaknuma/order,Wild Fries And Corn,4.1,"Fast Food, Shake, Beverages, Sichuan",100
+https://www.zomato.com/hyderabad/chai-amruth-meerpet/order,Chai Amruth,4,Beverages,100
+https://www.zomato.com/hyderabad/shero-home-food-andhra-2-mehdipatnam/order,Shero Home Food - Andhra,New,"South Indian, Andhra",100
+https://www.zomato.com/hyderabad/the-kadak-dosa-dilsukhnagar/order,The Kadak Dosa,4,"Beverages, South Indian",100
+https://www.zomato.com/hyderabad/small-mixed-rice-veg-non-veg-dilsukhnagar/order,Small Mixed Rice Veg Non Veg,-,"South Indian, North Indian",100
+https://www.zomato.com/hyderabad/mini-box-house-of-curries-dilsukhnagar/order,Mini Box House Of Curries,-,South Indian,100
+https://www.zomato.com/hyderabad/turkish-shawarma-and-burgers-malakpet/order,Turkish Shawarma And Burgers,3.6,"Fast Food, Shawarma",100
+https://www.zomato.com/hyderabad/fresco-grillicious-broasted-malakpet/order,Fresco Grillicious & Broasted,-,"Lebanese, Wraps, Burger, Fast Food, Desserts, Shawarma",100
+https://www.zomato.com/hyderabad/smiley-mohan-fast-food-mehdipatnam/order,Smiley Mohan Fast Food,4,"Fast Food, Chinese, Sichuan",100
+https://www.zomato.com/hyderabad/chai-chowrasta-himayath-nagar/order,Chai Chowrasta,-,"Fast Food, Beverages",100
+https://www.zomato.com/hyderabad/food-adda-himayath-nagar/order,Food Adda,3.8,"Fast Food, Sandwich, Pizza, Burger, Beverages, Waffle, Tea, Coffee",100
+https://www.zomato.com/hyderabad/chai-and-more-charminar/order,Chai And More,New,"Fast Food, Shake, Beverages",100
+https://www.zomato.com/hyderabad/star-rotis-and-catering-service-rajendra-nagar/order,Star Rotis And Catering Service,-,North Indian,100
+https://www.zomato.com/hyderabad/tiffin-point-saroor-nagar/order,Tiffin Point,-,South Indian,100
+https://www.zomato.com/hyderabad/dream-dessert-ice-cream-malakpet/order,Dream Dessert Ice Cream,-,"Ice Cream, Desserts",100
+https://www.zomato.com/hyderabad/ganga-rambhabu-currypoint-and-mess-dilsukhnagar/order,Ganga Rambhabu Currypoint And Mess,-,South Indian,100
+https://www.zomato.com/hyderabad/kings-food-court-abids/order,Kings Food Court,-,"North Indian, Chinese, Sichuan",100
+https://www.zomato.com/hyderabad/bagara-rice-meals-center-dilsukhnagar/order,Bagara Rice Meals Center,-,"Andhra, Hyderabadi",100
+https://www.zomato.com/hyderabad/cafe-marka-banjara-hills/order,Cafe Marka,-,"Continental, Italian, American, Cafe, Beverages",100
+https://www.zomato.com/hyderabad/kiran-tiffin-centre-dilsukhnagar/order,Kiran Tiffin Centre,-,South Indian,100
+https://www.zomato.com/hyderabad/paradise-bakery-by-paradise-biryani-koti/order,Paradise Bakery - By Paradise Biryani,-,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/amogh-multicuisine-restaurant-kacheguda/order,Amogh Multicuisine Restaurant,-,"Biryani, South Indian",250
+https://www.zomato.com/hyderabad/kulfi-nation-malakpet/order,Kulfi Nation,4,"Ice Cream, Desserts, Cafe",250
+https://www.zomato.com/hyderabad/hunger-langar-charminar/order,Hunger Langar,3.7,"Fast Food, Burger, Pizza, Sandwich",250
+https://www.zomato.com/hyderabad/sambhar-bhojanam-mess-dilsukhnagar/order,Sambhar Bhojanam Mess,-,"South Indian, North Indian",250
+https://www.zomato.com/hyderabad/jk-tiffins-malakpet/order,Jk Tiffins,3.3,South Indian,250
+https://www.zomato.com/hyderabad/veg-and-non-veg-curry-bazar-dilsukhnagar/order,Veg And Non Veg Curry Bazar,-,South Indian,250
+https://www.zomato.com/hyderabad/hangout-rtc-x-roads/order,Hangout,-,"Biryani, Chinese, Shake",250
+https://www.zomato.com/hyderabad/20-curries-meals-dilsukhnagar/order,20 Curries Meals,-,"South Indian, North Indian",250
+https://www.zomato.com/hyderabad/fryed-wings-dilsukhnagar/order,Fryed Wings,3.2,"Fast Food, Roast Chicken",250
+https://www.zomato.com/hyderabad/dosa-street-attapur/order,Dosa Street,3.3,South Indian,250
+https://www.zomato.com/hyderabad/cost-to-cost-curry-point-dilsukhnagar/order,Cost To Cost Curry Point,-,South Indian,250
+https://www.zomato.com/hyderabad/cakes-07-kothapet/order,Cakes 07,4,"Bakery, Desserts",250
+https://www.zomato.com/hyderabad/non-veg-and-veg-bojanam-dilsukhnagar/order,Non Veg  And Veg Bojanam,-,"Andhra, Street Food",150
+https://www.zomato.com/hyderabad/chapathi-and-pulka-center-dilsukhnagar/order,Chapathi And Pulka Center,3,"South Indian, Street Food",150
+https://www.zomato.com/hyderabad/office-box-meals-veg-and-non-veg-dilsukhnagar/order,Office Box Meals ( Veg And Non Veg),-,South Indian,150
+https://www.zomato.com/hyderabad/exotic-fruit-bowl-himayath-nagar/order,Exotic Fruit Bowl,4,Healthy Food,150
+https://www.zomato.com/hyderabad/nice-tiffins-musheerabad/order,Nice Tiffins,3.7,South Indian,150
+https://www.zomato.com/hyderabad/amma-chapathi-pulkha-roti-point-dilsukhnagar/order,Amma Chapathi Pulkha Roti Point,-,South Indian,150
+https://www.zomato.com/hyderabad/new-rajasthan-chat-bhandar-koti/order,New Rajasthan Chat Bhandar,3.6,Street Food,150
+https://www.zomato.com/hyderabad/ice-n-spice-hotel-inner-circle-somajiguda/order,Ice n Spice - Hotel Inner Circle,3.5,"North Indian, Chinese, Ice Cream, Continental, Desserts, Beverages, Shake",150
+https://www.zomato.com/hyderabad/telugu-vari-inti-ruchulu-dilsukhnagar/order,Telugu Vari Inti Ruchulu,-,South Indian,150
+https://www.zomato.com/hyderabad/smoodies-masab-tank/order,Smoodies,-,Beverages,150
+https://www.zomato.com/hyderabad/sri-shagun-mithai-vatika-himayath-nagar/order,Sri Shagun Mithai Vatika,4.5,Mithai,150
+https://www.zomato.com/hyderabad/healing-rice-bowls-banjara-hills/order,Healing Rice Bowls,-,"North Indian, South Indian",150
+https://www.zomato.com/hyderabad/sri-ganesh-tiffins-abids/order,Sri Ganesh Tiffins,4,South Indian,100
+https://www.zomato.com/hyderabad/quench-paan-smoothies-rani-gunj-secunderabad/order,Quench Paan & Smoothies,4.4,"Paan, Beverages, Street Food, Fast Food",100
+https://www.zomato.com/hyderabad/teachers-kitchen-food-charminar/order,Teacher’s Kitchen & Food,3.5,"Lebanese, Sandwich, Burger",100
+https://www.zomato.com/hyderabad/bullet-bandi-curry-point-dilsukhnagar/order,Bullet Bandi Curry Point,-,"South Indian, North Indian",100
+https://www.zomato.com/hyderabad/inox-kacheguda/order,INOX,-,"Fast Food, Street Food",100
+https://www.zomato.com/hyderabad/new-shahi-naan-malakpet/order,New Shahi Naan,4.3,North Indian,100
+https://www.zomato.com/hyderabad/really-homely-foods-hotel-dilsukhnagar/order,Really Homely Foods Hotel,-,South Indian,100
+https://www.zomato.com/hyderabad/cakes-temptations-banjara-hills/order,Cakes Temptations,2.9,"Bakery, Desserts",100
+https://www.zomato.com/hyderabad/v-cafe-meals-by-pvr-malakpet/order,V Cafe- Meals By PVR,4,"Burger, Sandwich, Fast Food",100
+https://www.zomato.com/hyderabad/cravery-cafe-jubilee-hills/order,Cravery Cafe,4,"Cafe, Continental, Fast Food, Salad, Healthy Food, Shake, Coffee, Desserts",100
+https://www.zomato.com/hyderabad/hotel-rajdhani-begum-bazaar/order,Hotel Rajdhani,4,"South Indian, North Indian, Chinese, Beverages, Desserts",100
+https://www.zomato.com/hyderabad/ofen-banjara-hills/order,Ofen,4.2,"Cafe, Coffee, Sandwich, Italian, Mexican, Pasta, Fast Food",100
+https://www.zomato.com/hyderabad/bakers-s-treat-kothapet/order,Bakers 'S' Treat,3.5,"Bakery, Fast Food, Chinese, Beverages, Desserts, Sichuan, Pizza",100
+https://www.zomato.com/hyderabad/mana-inti-ruchulu-dilsukhnagar/order,Mana Inti Ruchulu,3.3,"South Indian, Andhra",100
+https://www.zomato.com/hyderabad/cakes-hub-banjara-hills/order,Cakes Hub,3.7,Bakery,100
+https://www.zomato.com/hyderabad/myfroyoland-himayath-nagar/order,Myfroyoland,3.8,"Frozen Yogurt, Desserts",100
+https://www.zomato.com/hyderabad/jai-bhavani-tiffin-center-1-malakpet/order,Jai Bhavani Tiffin Center,4.2,South Indian,100
+https://www.zomato.com/hyderabad/italian-express-basheer-bagh/order,Italian Express,4,"Chinese, Fast Food, Pizza, Pasta, Italian",100
+https://www.zomato.com/hyderabad/barista-khairatabad/order,Barista,3.6,"Cafe, Coffee, Beverages, Fast Food",100
+https://www.zomato.com/hyderabad/sri-ramakrishna-reddy-pure-ghee-sweets-dilsukhnagar/order,Sri Ramakrishna Reddy Pure Ghee Sweets,-,Mithai,100
+https://www.zomato.com/hyderabad/zaika-bites-l-b-nagar/order,Zaika Bites,3.6,Fast Food,100
+https://www.zomato.com/hyderabad/chandni-chowk-banjara-hills/order,Chandni Chowk,3.5,"Street Food, North Indian, Fast Food",100
+https://www.zomato.com/hyderabad/alfa-sweets-1-masab-tank/order,Alfa Sweets,3.8,"Mithai, Desserts",100
+https://www.zomato.com/hyderabad/mg-point-fast-food-chandrayanagutta/order,MG Point Fast Food,-,"Fast Food, North Indian, Chinese",100
+https://www.zomato.com/hyderabad/eggiz-for-egg-lovers-rajendra-nagar/order,Eggiz - For Egg Lovers,3.2,"South Indian, Street Food, Fast Food, Chinese",100
+https://www.zomato.com/hyderabad/the-rotii-makers-street-saroor-nagar/order,The Rotii Makers Street,3.8,"Andhra, South Indian",100
+https://www.zomato.com/hyderabad/babai-express-lakdikapul/order,Babai Express,3.1,South Indian,100
+https://www.zomato.com/hyderabad/creamy-n-creamy-ice-stone-1-banjara-hills/order,Creamy N Creamy Ice Stone,3.6,"Desserts, Ice Cream, Fast Food, Shake, Beverages, Waffle",100
+https://www.zomato.com/hyderabad/jalebiwalas-mithai-bhandar-begum-bazaar/order,Jalebiwalas Mithai Bhandar,4,"Mithai, Street Food, Desserts",100
+https://www.zomato.com/hyderabad/v-cafe-@-citadel-by-vinnca-rajendra-nagar/order,V Cafe @ Citadel By Vinnca,-,"North Indian, Chinese, Fast Food",100
+https://www.zomato.com/hyderabad/d-lite-shakes-snacks-malakpet/order,D-Lite Shakes & Snacks,3.8,"Beverages, Momos, Shake, Street Food, Fast Food",100
+https://www.zomato.com/hyderabad/break-the-bread-sandwiches-and-burgers-narayanguda/order,Break The Bread - Sandwiches And Burgers,4.1,"Fast Food, Beverages, Shake",100
+https://www.zomato.com/hyderabad/truffle-tower-film-nagar/order,Truffle Tower,-,"Cafe, European, Italian, Pizza, Burger, Waffle, Tea, Coffee",100
+https://www.zomato.com/hyderabad/fullfills-banjara-hills/order,FullFills,3.7,"Cafe, Healthy Food, Continental, Lebanese, Italian, Beverages, Shake, North Indian",100
+https://www.zomato.com/hyderabad/7th-heaven-ameerpet/order,7th Heaven,3.7,"Bakery, Fast Food, Beverages, Ice Cream, Desserts, Shake, Pizza, Waffle",100
+https://www.zomato.com/hyderabad/hkgn-chat-bhandar-falaknuma/order,HKGN Chat Bhandar,3.8,Street Food,100
+https://www.zomato.com/hyderabad/the-gallery-cafe-khairatabad/order,The Gallery Cafe,4,"Cafe, Continental",250
+https://www.zomato.com/hyderabad/mr-chaibaaz-narayanguda/order,Mr Chaibaaz,4,"Fast Food, Tea",250
+https://www.zomato.com/hyderabad/saravana-udupi-hotel-boiguda-secunderabad/order,Saravana Udupi Hotel,3.9,South Indian,250
+https://www.zomato.com/hyderabad/jupiters-neelam-bar-restaurant-kacheguda/order,Jupiters Neelam Bar & Restaurant,-,"North Indian, Chinese",250
+https://www.zomato.com/hyderabad/empala-hotel-masab-tank/order,Empala Hotel,3.5,Lebanese,250
+https://www.zomato.com/hyderabad/balaji-vishnu-sweet-house-koti/order,Balaji Vishnu Sweet House,4,"Mithai, Street Food, Tea",250
+https://www.zomato.com/hyderabad/verandah-the-park-somajiguda/order,Verandah - The Park,3.7,"North Indian, Continental, Chinese, Desserts, Oriental, Biryani, Beverages",250
+https://www.zomato.com/hyderabad/arabian-shawarma-adda-himayath-nagar/order,Arabian Shawarma Adda,3.6,"Middle Eastern, Shawarma",250
+https://www.zomato.com/hyderabad/jai-bhavani-spicy-hut-fast-food-tiffins-koti/order,Jai Bhavani Spicy Hut fast food & Tiffins,4,"Chinese, Sichuan",250
+https://www.zomato.com/hyderabad/mataam-al-hind-amberpet/order,Mataam Al Hind,3.7,"Arabian, Mandi",250
+https://www.zomato.com/hyderabad/popking-popcorn-2-basheer-bagh/order,PopKing Popcorn,4,Fast Food,250
+https://www.zomato.com/hyderabad/milkshakes-hub-n-more-l-b-nagar/order,Milkshakes Hub n More,4.2,"Beverages, Shake, Burger",250
+https://www.zomato.com/hyderabad/sipr-slurp-1-narayanguda/order,Sip'R Slurp,3.6,"Beverages, Shake",150
+https://www.zomato.com/hyderabad/old-mumbai-ice-cream-malakpet/order,Old Mumbai Ice Cream,4.3,"Ice Cream, Desserts, Shake, Beverages",150
+https://www.zomato.com/hyderabad/mimees-chocolates-ghansi-bazaar/order,Mimee's Chocolates,4.6,Desserts,150
+https://www.zomato.com/hyderabad/rich-cake-wala-falaknuma/order,Rich Cake Wala,3.5,"Bakery, Desserts",150
+https://www.zomato.com/hyderabad/brownie-heaven-himayath-nagar/order,Brownie Heaven,4,"Desserts, Ice Cream",150
+https://www.zomato.com/hyderabad/zuci-artisanal-chocolates-cafe-jubilee-hills/order,ZUCI - Artisanal Chocolates & Cafe,4.2,"Cafe, Fast Food, Continental, Beverages, Desserts, Bakery, Shake, Tea",150
+https://www.zomato.com/hyderabad/rice-plus-plus-narayanguda/order,Rice Plus Plus,2.6,"Healthy Food, North Indian, Italian",150
+https://www.zomato.com/hyderabad/natures-spirit-attapur/order,Nature's Spirit,2.9,"Healthy Food, Sandwich, Beverages",150
+https://www.zomato.com/hyderabad/quality-shawarma-banjara-hills/order,Quality Shawarma,-,"Bakery, Shawarma",150
+https://www.zomato.com/hyderabad/quality-cakes-banjara-hills/order,Quality Cakes,3.8,"Bakery, Desserts",150
+https://www.zomato.com/hyderabad/best-burgers-malakpet/order,Best Burgers,3.4,"Pizza, Burger, Fast Food",150
+https://www.zomato.com/hyderabad/cakes-07-banjara-hills/order,Cakes 07,4.2,"Bakery, Desserts, Beverages",150
+https://www.zomato.com/hyderabad/potful-claypot-biryanis-khairatabad/order,Potful - Claypot Biryanis,4.1,"Biryani, Kebab, Mughlai, North Indian, Desserts, Beverages",350
+https://www.zomato.com/hyderabad/the-burger-life-dilsukhnagar/order,The Burger Life,3.1,"Fast Food, Burger",350
+https://www.zomato.com/hyderabad/dairy-den-l-b-nagar/order,Dairy Den,4.3,"Ice Cream, Desserts",350
+https://www.zomato.com/hyderabad/alfa-bakery-3-masab-tank/order,Alfa Bakery,4,Bakery,350
+https://www.zomato.com/hyderabad/enchanté-café-confectionery-film-nagar/order,Enchanté Café & Confectionery,3.7,"Cafe, Italian, Continental, Burger, Fast Food, Desserts, Beverages, Pizza",350
+https://www.zomato.com/hyderabad/hydrate-the-bar-hampshire-plaza-lakdikapul/order,Hydrate The Bar - Hampshire Plaza,-,"North Indian, Chinese, Beverages, Biryani, Desserts, Sichuan",350
+https://www.zomato.com/hyderabad/eat-subs-sd-road-secunderabad/order,Eat Subs,-,"Fast Food, Desserts",350
+https://www.zomato.com/hyderabad/sri-balaji-mithai-bhandar-khairatabad/order,Sri Balaji Mithai Bhandar,4.3,"Mithai, Street Food",350
+https://www.zomato.com/hyderabad/ek-pyali-chai-1-lakdikapul/order,Ek Pyali Chai,3.6,"Fast Food, Street Food, Tea, Beverages, Coffee",350
+https://www.zomato.com/hyderabad/cakes99-banjara-hills/order,Cakes99,3.8,"Bakery, Desserts",350
+https://www.zomato.com/hyderabad/vip-tasty-foods-dilsukhnagar/order,Vip Tasty Foods,-,Andhra,350
+https://www.zomato.com/hyderabad/urban-turban-attapur/order,Urban Turban,-,"North Indian, Chinese",350
+https://www.zomato.com/hyderabad/new-balaji-family-dhaba-malakpet/order,New Balaji Family Dhaba,3.9,"North Indian, Chinese, Biryani",250
+https://www.zomato.com/hyderabad/kiranmai-food-court-dilsukhnagar/order,Kiranmai Food Court,-,"South Indian, Andhra",250
+https://www.zomato.com/hyderabad/mumbaichee-chaat-street-banjara-hills/order,Mumbaichee Chaat Street,3.4,Street Food,250
+https://www.zomato.com/hyderabad/kulfi-shulfi-tolichowki/order,Kulfi Shulfi,-,Desserts,250
+https://www.zomato.com/hyderabad/ariko-cafe-jubilee-hills/order,Ariko Cafe,4,"Ice Cream, Desserts, Pizza, Waffle, Tea, Coffee",250
+https://www.zomato.com/hyderabad/firangi-fried-chicken-dilsukhnagar/order,Firangi Fried Chicken,3.8,"Fast Food, Biryani",250
+https://www.zomato.com/hyderabad/sankla-tiffins-dhaba-chandrayanagutta/order,Sankla Tiffins & Dhaba,-,"Chinese, South Indian, North Indian",250
+https://www.zomato.com/hyderabad/meer-cafe-mehdipatnam/order,Meer Cafe,3.8,South Indian,250
+https://www.zomato.com/hyderabad/bhavani-tiffins-masab-tank/order,Bhavani Tiffins,4,South Indian,250
+https://www.zomato.com/hyderabad/zaheer-juice-center-malakpet/order,Zaheer Juice Center,4.2,"Juices, Beverages, Shake, Desserts, Salad",250
+https://www.zomato.com/hyderabad/aashus-juice-bar-attapur/order,Aashu's Juice Bar,4.2,"Beverages, Fast Food, Desserts",250
+https://www.zomato.com/hyderabad/jai-bhavani-tiffins-snacks-attapur/order,Jai Bhavani Tiffin's & Snacks,3.4,South Indian,250
+https://www.zomato.com/hyderabad/machili-com-1-s-r-nagar/order,Machili.Com,-,Seafood,350
+https://www.zomato.com/hyderabad/bhatthi-by-phulkaas-musheerabad/order,Bhatthi By Phulkaas,-,"North Indian, Kebab",350
+https://www.zomato.com/hyderabad/season-one-ice-cream-1-rajendra-nagar/order,Season One Ice Cream,4.3,"Ice Cream, Desserts",350
+https://www.zomato.com/hyderabad/cakes-club-banjara-hills/order,Cakes Club,3.5,"Bakery, Desserts",350
+https://www.zomato.com/hyderabad/rks-kitchen-dilsukhnagar/order,RK's Kitchen,3.4,South Indian,350
+https://www.zomato.com/hyderabad/makaan-zaiqa-1-mehdipatnam/order,Makaan Zaiqa,-,"Hyderabadi, Desserts, Sandwich, Salad",350
+https://www.zomato.com/hyderabad/eat-n-treat-1-ghansi-bazaar/order,Eat N Treat,3.8,"Mithai, Street Food",350
+https://www.zomato.com/hyderabad/dr-cakes-banjara-hills/order,Dr Cakes,3.2,"Bakery, Desserts",350
+https://www.zomato.com/hyderabad/shahi-naan-amberpet/order,Shahi Naan,-,North Indian,350
+https://www.zomato.com/hyderabad/combosthalam-by-phulkaas-musheerabad/order,Combosthalam By Phulkaas,3.8,"North Indian, Chinese",350
+https://www.zomato.com/hyderabad/pachadis-by-phulkaas-musheerabad/order,Pachadis By Phulkaas,-,South Indian,350
+https://www.zomato.com/hyderabad/tasim-1-himayath-nagar/order,Tasim,3.4,"Chinese, Momos",350
