@@ -29,7 +29,7 @@ Here's a list of the algorithms and models available in this repository, along w
 - **Random Forest Regression**
 - **Random Forest Classification**
 - **Support Vector Machine (SVM)**
-- 
+
 ### Datasets
 
 Several datasets are included in this repository for practice purposes, including:
