@@ -50,7 +50,7 @@ Several datasets are included in this repository for practice purposes, includin
 To clone and run this repository, use the following command:
 
 \```bash
-git clone https://github.com/your-username/machine-learning-practice.git
+git clone https://github.com/sknrk/Machine-Learning-Training.git
 \```
 
 Explore the algorithms and models, and feel free to use the datasets for your practice.
